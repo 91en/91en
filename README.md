@@ -1,6 +1,6 @@
 ## 欢迎来到91en  
 --- 
-这里将用来分享一些代理信息！也做为本人自用备份！  
+这里将用来分享一些代理信息！也做为本人自用备份！其中包含了ss/ssr和v2商家！  
 - 说明：推荐一栏本人自用，较为稳定，线路较优！     
 - 如遇打不开官网或线路不能使用请自行联系商家！     
 - 服务商稳定与否请自行尝试，一切问题与本人无关，我只是搬运！  
@@ -8,8 +8,8 @@
 ---   
 
 > <h3>推荐（收费）：</h3>  
-1. MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>   
-2. v2raypro：<a href="https://www.v2raypro.com/aff.php?aff=3" target="_blank">https://www.v2raypro.com/</a> 
+1. （ss/ssr）MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>   
+2. （v2ray）v2raypro：<a href="https://www.v2raypro.com/aff.php?aff=3" target="_blank">https://www.v2raypro.com/</a> 
 
 ---  
 
