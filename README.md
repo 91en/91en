@@ -4,9 +4,6 @@
 稳不稳定自己尝试，一切问题与本人无关，我只是搬运！   
    
 ---   
-  
-### 代理备份分享：      
----
 
 > <h3>推荐（收费）：</h3>  
 1. MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>   
