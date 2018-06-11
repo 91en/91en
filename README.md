@@ -13,8 +13,8 @@
 ---  
 
 > 收费：  
-> 1. 良辰云：<a href="https://liangchenyun.xyz/" target="_blank">https://liangchenyun.xyz/</a>   
-> 2. v2raypro：<a href="https://www.v2raypro.com/aff.php?aff=3" target="_blank">https://www.v2raypro.com/</a>   
-> 3. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>   
-> 4. 云图小镇：<a href="https://www.yuntu.cloud/" target="_blank">https://www.yuntu.cloud/</a>  
-> 5. MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
+> 1. MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
+> 2. v2raypro：<a href="https://www.v2raypro.com/aff.php?aff=3" target="_blank">https://www.v2raypro.com/</a>  
+> 3. 良辰云：<a href="https://liangchenyun.xyz/" target="_blank">https://liangchenyun.xyz/</a>       
+> 4. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>   
+> 5. 云图小镇：<a href="https://www.yuntu.cloud/" target="_blank">https://www.yuntu.cloud/</a>    
