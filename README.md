@@ -18,5 +18,6 @@
 > <h3>免费：</h3>  
 1. 酸奶（免费）：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>  
 2. 翻个墙吧（免费）：<a href="https://www.fanwall.top/" target="_blank">https://www.fanwall.top/</a>   
+3. ishadowx（免费）：<a href="https://my.ishadowx.net/" target="_blank">https://my.ishadowx.net/</a>  
 
 --- 
