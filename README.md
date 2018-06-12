@@ -9,7 +9,8 @@
 - 服务商稳定与否请自行尝试，一切问题与本人无关，我只是搬运！  
    
 ---   
-推荐（收费）：MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
+- 推荐（收费）：MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
+
 ---
 
 > <h3>收费：</h3>     
