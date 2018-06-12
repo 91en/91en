@@ -7,8 +7,8 @@
 - 服务商稳定与否请自行尝试，一切问题与本人无关，我只是搬运！  
    
 ---   
-<font color=red>（推荐）</font> 
-MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
+推荐：MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
+---
 
 > <h3>收费：</h3>     
 1. （v2ray暂停注册）v2raypro：<a href="https://www.v2raypro.com/aff.php?aff=3" target="_blank">https://www.v2raypro.com/</a>    
