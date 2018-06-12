@@ -7,7 +7,7 @@
 - 服务商稳定与否请自行尝试，一切问题与本人无关，我只是搬运！  
    
 ---   
-<font color=#0099ff>（推荐）</font>  
+<font color=red>（推荐）</font> 
 MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
 
 > <h3>收费：</h3>     
