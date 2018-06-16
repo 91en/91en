@@ -27,7 +27,7 @@
 ---  
 
 > <h3>免费：</h3>  
-1. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>    
+1. 酸奶：<a href="http://www.ssru.ml/register/1843/XQTUOMFC" target="_blank">https://www.ssru.xyz/</a>    
 2. ishadowx：<a href="https://my.ishadowx.net/" target="_blank">https://my.ishadowx.net/</a>   
 3. Poro免费版：<a href="http://poro.ws/" target="_blank">http://poro.ws/</a>  
 
