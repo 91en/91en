@@ -26,8 +26,8 @@
 ---  
 
 > <h3>免费：</h3>  
-1. 酸奶：<a href="http://www.ssru.ml/register/1843/XQTUOMFC" target="_blank">https://www.ssru.xyz/</a>    
-2. 我想开心上网：<a href="https://wxkxsw.com/" target="_blank">https://wxkxsw.com/</a>   
+1. 酸奶（推荐）：<a href="http://www.ssru.ml/register/1843/XQTUOMFC" target="_blank">https://www.ssru.xyz/</a>    
+2. 我想开心上网（推荐）：<a href="https://wxkxsw.com/" target="_blank">https://wxkxsw.com/</a>   
 3. ishadowx：<a href="https://my.ishadowx.net/" target="_blank">https://my.ishadowx.net/</a>   
 4. Poro免费版：<a href="http://poro.ws/" target="_blank">http://poro.ws/</a>  
 
