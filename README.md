@@ -14,7 +14,7 @@
 ---
 
 > <h3>收费：</h3>     
-1. （v2ray暂停注册）v2raypro：<a href="https://www.v2raypro.com/aff.php?aff=3" target="_blank">https://www.v2raypro.com/</a>    
+1. v2raypro（V2线路）：<a href="https://www.v2raypro.com/aff.php?aff=3" target="_blank">https://www.v2raypro.com/</a>    
 2. 良辰云：<a href="https://liangchenyun.xyz/" target="_blank">https://liangchenyun.xyz/</a>       
 3. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>    
 4. 云图小镇：<a href="https://www.yuntu.cloud/" target="_blank">https://www.yuntu.cloud/</a>     
@@ -28,7 +28,8 @@
 > <h3>免费：</h3>  
 1. 酸奶（推荐）：<a href="http://www.ssru.ml/register/1843/XQTUOMFC" target="_blank">https://www.ssru.xyz/</a>    
 2. 我想开心上网（推荐）：<a href="https://wxkxsw.com/" target="_blank">https://wxkxsw.com/</a>   
-3. ishadowx：<a href="https://my.ishadowx.net/" target="_blank">https://my.ishadowx.net/</a>   
-4. Poro免费版：<a href="http://poro.ws/" target="_blank">http://poro.ws/</a>  
+3. ssrshare：<a href="https://tool.ssrshare.xyz/tool/free_ssr" target="_blank">https://tool.ssrshare.xyz/tool/free_ssr</a>   
+4. ishadowx：<a href="https://my.ishadowx.net/" target="_blank">https://my.ishadowx.net/</a>   
+5. Poro免费版：<a href="http://poro.ws/" target="_blank">http://poro.ws/</a>  
 
 --- 
