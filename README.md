@@ -15,7 +15,7 @@
 ---
 
 > <h3>收费：</h3>     
-1. v2raypro（V2ray）：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.com/</a>    
+1. v2raypro（V2ray）：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.top/</a>    
 2. 良辰云：<a href="https://liangchenyun.xyz/" target="_blank">https://liangchenyun.xyz/</a>       
 3. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>    
 4. 云图小镇：<a href="https://www.yuntu.cloud/" target="_blank">https://www.yuntu.cloud/</a>     
