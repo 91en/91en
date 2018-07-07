@@ -35,4 +35,4 @@
 
 --- 
 
-<a href="https://simimg.com/i/nOIkn"><img src="https://s1.ax2x.com/2018/06/29/nOIkn.png" alt="" width="" height="400" border="0" /></a>  
+<a href="https://simimg.com/i/nOIkn"><img src="https://s1.ax2x.com/2018/06/29/nOIkn.png" onclick="return false" width="" height="400" border="0" /></a>  
