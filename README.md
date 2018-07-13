@@ -10,7 +10,7 @@
 - 请注意“v2raypro”，以权限限制节点使用，目的是防止攻击者！权限是根据使用时间和信用进行评价，与您购买月付还是年付无关！新用户权限低，线路少！
    
 ---   
-- 推荐（收费）：MySSR：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
+- 推荐（收费）：MySSR（暂停注册）：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
 
 ---
 
