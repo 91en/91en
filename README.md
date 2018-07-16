@@ -11,10 +11,8 @@
    
 ---   
 v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.top/</a>  
-- <a href="https://www.v2raypro.top/announcements.php?id=106" target="_blank">用户节点权限说明</a>  
 - 纯v2ray线路，有权限限制，目的是防止攻击！  
-- 权限是根据使用度进行评价，与您购买月付还是年付无关！  
-- 新用户权限低，线路少！  
+- <a href="https://www.v2raypro.top/announcements.php?id=106" target="_blank">用户节点权限说明</a>   
 - windows/mac平台有定制版客户端！  
 - 支持订阅！  
 
