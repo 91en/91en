@@ -10,7 +10,7 @@
 - 好机场容易被攻击，很多机场都有所限制或暂停注册！且用且珍惜！
    
 ---   
-v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.top/</a>
+v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.top/</a>  
 ｛纯v2ray线路，有权限限制，目的是防止攻击！权限是根据使用度进行评价，与您购买月付还是年付无关！新用户权限低，线路少！｝
 
 ---
