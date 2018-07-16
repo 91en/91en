@@ -7,15 +7,16 @@
 - 免费：基本上公益纯免费！（一分钱一分货，自行斟酌）  
 - 如遇打不开官网或线路不能使用请自行联系商家！     
 - 服务商稳定与否请自行尝试，一切问题与本人无关，我只是搬运！  
-- 请注意“v2raypro”，以权限限制节点使用，目的是防止攻击者！权限是根据使用时间和信用进行评价，与您购买月付还是年付无关！新用户权限低，线路少！
+- 好机场容易被攻击，很多机场都有所限制或暂停注册！且用且珍惜！
    
 ---   
-- 推荐（收费）：MySSR（暂停注册）：<a href="https://jsqpro.com/auth/register?aff=1365" target="_blank">https://jsqpro.com/auth/</a>  
+v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.top/</a>
+｛纯v2ray线路，有权限限制，目的是防止攻击！权限是根据使用度进行评价，与您购买月付还是年付无关！新用户权限低，线路少！｝
 
 ---
 
 > <h3>收费：</h3>     
-1. v2raypro（V2ray）：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.top/</a>    
+1. MySSR：<a href="https://jsqpro.com/auth/" target="_blank">https://jsqpro.com/auth/</a>｛暂停注册，需要邀请链接才能注册｝  
 2. 良辰云：<a href="https://liangchenyun.xyz/" target="_blank">https://liangchenyun.xyz/</a>       
 3. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>    
 4. 云图小镇：<a href="https://www.yuntu.cloud/" target="_blank">https://www.yuntu.cloud/</a>     
@@ -36,4 +37,6 @@
 
 --- 
 
-<a href="#" onclick="return false;"><img src="https://s1.ax2x.com/2018/06/29/nOIkn.png" width="" height="400" border="0" /></a> 
+<a href="#" onclick="return false;"><img src="https://s1.ax2x.com/2018/06/29/nOIkn.png" width="" height="400" border="0" /></a>  
+
+---
