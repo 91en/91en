@@ -19,7 +19,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 ---
 
 > <h3>收费：</h3>     
-1. MySSR：<a href="https://jsqpro.com/auth/" target="_blank">https://jsqpro.com/auth/</a>｛暂停注册，需要邀请链接才能注册｝  
+1. MySSR：<a href="https://jsqpro.com/" target="_blank">https://jsqpro.com/</a>｛暂停注册，需要邀请链接才能注册｝  
 2. 良辰云：<a href="https://liangchenyun.xyz/" target="_blank">https://liangchenyun.xyz/</a>       
 3. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>    
 4. 云图小镇：<a href="https://www.yuntu.cloud/" target="_blank">https://www.yuntu.cloud/</a>     
