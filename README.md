@@ -26,7 +26,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 5. 今天吃点什么?：<a href="https://eeeesile.com/" target="_blank">https://eeeesile.com/</a>   
 6. 凿壁借光SSR：<a href="http://www.superssr.me/" target="_blank">http://www.superssr.me/</a>  
 7. Poro专业版：<a href="https://poro.la/" target="_blank">https://poro.la/</a>    
-8. 翻个墙吧：<a href="https://www.fanwall.top/" target="_blank">https://www.fanwall.top/</a>   
+8. ~~翻个墙吧：<a href="https://www.fanwall.top/" target="_blank">https://www.fanwall.top/</a>~~
 9. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
 
 ---  
