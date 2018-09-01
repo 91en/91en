@@ -15,6 +15,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 - <a href="https://www.v2raypro.top/announcements.php?id=106" target="_blank">用户节点权限说明</a>   
 - windows/mac平台有定制版客户端！  
 - 支持订阅！  
+2018-09-01：新用户赶紧注册吧，优惠来了！
 
 ---
 
