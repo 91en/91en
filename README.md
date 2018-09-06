@@ -32,7 +32,7 @@ v2raypro：<a href="https://www.v2raypro.top/" target="_blank">https://www.v2ray
 8. cordcloud：<a href="https://www.cordcloud.me/" target="_blank">https://www.cordcloud.me/</a>
 9. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
 10. 鲨鱼：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>  
-99. 酸奶：<a href="http://www.ssru.ml/register/1843/XQTUOMFC" target="_blank">https://www.ssru.xyz/</a> {这家管理比较自以为是，大部分付费线路都是以前免费的线路，连香港线路都没有，自行斟酌！}  
+11. 酸奶：<a href="http://www.ssru.ml/register/1843/XQTUOMFC" target="_blank">https://www.ssru.xyz/</a> {这家管理比较自以为是，大部分付费线路都是以前免费的线路，连香港线路都没有，自行斟酌！}  
 
 ---  
 
