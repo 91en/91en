@@ -1,10 +1,10 @@
 ## 欢迎来到91en  
 --- 
 这里将用来分享一些代理信息！也做为本人自用备份！其中包含了ss/ssr和v2商家！  
-- 以下服务都是亲自试用过的！部分一直在用的！（但不保证稳定与否）
+- 以下服务都是亲自试用过的！部分一直在用的！顺序不分先后！（但不保证稳定与否）
 - 有些商家可能需要邀请码之类的！（本站不提供）  
 - 收费：一定有付费线路，但可能部分有免费线路！  
-- 免费：基本上公益纯免费！  
+- 免费：基本上纯公益免费！  
 - 如遇打不开官网或线路不能使用请自行联系商家！     
 - 服务商稳定与否请自行尝试，跑路与否等与本人无关！  
    
@@ -31,12 +31,13 @@ v2raypro：<a href="https://www.v2raypro.top/" target="_blank">https://www.v2ray
 7. Poro专业版：<a href="https://poro.la/" target="_blank">https://poro.la/</a>    
 8. cordcloud：<a href="https://www.cordcloud.me/" target="_blank">https://www.cordcloud.me/</a>
 9. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
-10. 酸奶：<a href="http://www.ssru.ml/register/1843/XQTUOMFC" target="_blank">https://www.ssru.xyz/</a>{这家管理比较自以为是，以为自己便宜线路优。大部分线路都是以前免费的线路，连香港线路都没有，且比他家便宜线路好的有的是，自行斟酌！}  
+10. 鲨鱼：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>  
+99. 酸奶：<a href="http://www.ssru.ml/register/1843/XQTUOMFC" target="_blank">https://www.ssru.xyz/</a> {这家管理比较自以为是，大部分付费线路都是以前免费的线路，连香港线路都没有，自行斟酌！}  
 
 ---  
 
 > <h3>免费：</h3>    
-1. 我想开心上网（推荐）：<a href="https://wxkxsw.com/" target="_blank">https://wxkxsw.com/</a>（近期旧站停止，新站线路全部支持v2ray，目前测试中）   
+1. ~~我想开心上网（推荐）：<a href="https://wxkxsw.com/" target="_blank">https://wxkxsw.com/</a>（近期旧站停止，新站线路全部支持v2ray，目前测试中）~~   
 2. ssrshare：<a href="https://www.ssrtool.com/tool/free_ssr" target="_blank">https://www.ssrtool.com/tool/free_ssr</a>   
 3. ishadowx：<a href="https://my.ishadowx.net/" target="_blank">https://my.ishadowx.net/</a>   
 4. Poro免费版：<a href="http://poro.ws/" target="_blank">http://poro.ws/</a>  
