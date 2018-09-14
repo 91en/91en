@@ -40,14 +40,14 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 10. 鲨鱼：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>  
 11. 红杏出墙：<a href="https://console.v2ray.ovh/" target="_blank">https://console.v2ray.ovh/</a>  
 12. 茶壶加速：<a href="https://www.teapot.pw" target="_blank">https://www.teapot.pw</a>｛新机场线路少，便宜｝  
-99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a> {这家管理比较自以为是，大部分付费线路都是以前免费的线路，连新加坡、香港线路都没有，自行斟酌！}  
+99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a> {还有免费线路，但是这家管理比较自以为是，大部分付费线路都是以前免费的线路，连新加坡、香港线路都没有，自行斟酌！}  
 
 ---  
 
 > <h3>免费：</h3>    
 1. 我想开心上网（推荐）：<a href="https://wxkxsw.com/" target="_blank">https://wxkxsw.com/</a>｛新站线路全部支持v2ray，每日限量注册，需要邀请码可以到<a href="https://t.me/joinchat/F6lKrUMKir4jj-jiTn7oQQ" target="_blank">Telegram官方群获取</a>｝   
-2. ssrshare：<a href="https://www.ssrtool.com/tool/free_ssr" target="_blank">https://www.ssrtool.com/tool/free_ssr</a>   
-3. ishadowx：<a href="https://my.ishadowx.net/" target="_blank">https://my.ishadowx.net/</a>   
+2. ssrshare：<a href="https://www.ssrshare.xyz/" target="_blank">https://www.ssrshare.xyz/</a>   
+3. ~~ishadowx：<a href="https://my.ishadowx.net/" target="_blank">https://my.ishadowx.net/</a>(挂了)~~   
 4. Poro免费版：<a href="http://poro.ws/" target="_blank">http://poro.ws/</a>  
 
 --- 
