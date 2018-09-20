@@ -40,7 +40,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 10. 鲨鱼：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>  
 11. 红杏出墙：<a href="https://console.v2ray.ovh/" target="_blank">https://console.v2ray.ovh/</a>  
 12. 茶壶加速：<a href="https://www.teapot.pw" target="_blank">https://www.teapot.pw</a>｛新机场线路少，便宜｝  
-99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a> {还有免费线路，但是这家管理比较自以为是，大部分付费线路都是以前免费的线路，连新加坡、香港线路都没有，自行斟酌！}  
+99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
 
 ---  
 
