@@ -19,7 +19,9 @@ v2raypro：<a href="https://www.v2raypro.top/" target="_blank">https://www.v2ray
 - <a href="https://www.v2raypro.top/announcements.php?id=106" target="_blank">用户节点权限说明</a>   
 - windows/mac平台有定制版客户端！  
 - 支持订阅！  
-2018-09-01：新用户赶紧注册吧，优惠来了！（年付类9折优惠码：v2ray.com）  
+2018-09-21：优惠活动：  
+1. 即日起至10月8日，所有年付类套餐，新购及续费使用（优惠码：中秋国庆双节狂欢）即可享受7.8折优惠  
+2. 新增试用订阅V2rayPro Trial Plan 50g/30天有效期 到期后无法续费  
 
 ---
 LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.net/</a>  
