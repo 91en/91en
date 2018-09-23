@@ -52,6 +52,11 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 3. ishadowx：<a href="https://us.ishadowx.net/" target="_blank">https://us.ishadowx.net/</a> 备用：<a href="http://isx.yt" target="_blank">isx.yt</a> & <a href="http://dwz.pm/x" target="_blank">dwz.pm/x</a>｛之前挂了找回组织｝    
 4. Poro免费版：<a href="http://poro.ws/" target="_blank">http://poro.ws/</a>  
 
+---
+> <h3>免费Telegram群</h3>  
+1. <a href="https://t.me/SSRlist" target="_blank">SSR节点免费发放</a>  
+2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
+
 --- 
 ## 欢迎打赏
 ---
