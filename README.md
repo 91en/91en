@@ -30,7 +30,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 ---
 
 > <h3>收费：</h3>     
-1. ~~MySSR：<a href="https://jsqpro.com/" target="_blank">https://jsqpro.com/</a>｛停止注册，暂时停止维护｝~~  
+1. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码｝  
 2. 良辰云：<a href="https://xn--9kq677j3ki.app/" target="_blank">https://xn--9kq677j3ki.app/</a>       
 3. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>    
 4. 云图小镇：<a href="https://www.yuntu.cloud/" target="_blank">https://www.yuntu.cloud/</a>     
