@@ -49,7 +49,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 
 > <h3>免费：</h3>    
 1. 我想开心上网（推荐）：<a href="https://wxkxsw.com/" target="_blank">https://wxkxsw.com/</a>｛新站部分线路支持v2ray，每日限量注册，需要邀请码可以到<a href="https://t.me/joinchat/F6lKrUMKir4jj-jiTn7oQQ" target="_blank">Telegram官方群获取</a>｝   
-2. ssrshare：<a href="https://www.ssrtool.com/tool/share_ssr" target="_blank">https://www.ssrtool.com/tool/share_ssr</a>   
+2. ssrshare：<a href="https://www.ssrtool.com/tool/free_ssr" target="_blank">https://www.ssrtool.com/tool/free_ssr</a>｛我这打不开自行尝试｝   
 3. ishadowx：<a href="https://us.ishadowx.net/" target="_blank">https://us.ishadowx.net/</a> 备用：<a href="http://isx.yt" target="_blank">isx.yt</a> & <a href="http://dwz.pm/x" target="_blank">dwz.pm/x</a>｛之前挂了找回组织｝    
 4. Poro免费版：<a href="http://poro.ws/" target="_blank">http://poro.ws/</a>  
 
