@@ -34,7 +34,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 1. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
 2. 良辰云：<a href="https://xn--9kq677j3ki.app/" target="_blank">https://xn--9kq677j3ki.app/</a>       
 3. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>    
-4. 云图小镇：<a href="https://www.yuntu.cloud/" target="_blank">https://www.yuntu.cloud/</a>     
+4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
 5. 渡口：<a href="https://eeeesile.com/" target="_blank">https://eeeesile.com/</a>   
 6. 凿壁借光SSR：<a href="http://www.superssr.me/" target="_blank">http://www.superssr.me/</a>  
 7. Poro专业版：<a href="https://poro.la/" target="_blank">https://poro.la/</a>    
