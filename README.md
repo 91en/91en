@@ -61,7 +61,8 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 --- 
 ## 欢迎打赏
 ---
+<!-- 
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9xLB8.png" width="" height="200" border="0"/></a>
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9zavt.png" width="" height="200" border="0"/></a>
-
+ -->
 ---
