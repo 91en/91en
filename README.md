@@ -65,4 +65,8 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9xLB8.png" width="" height="200" border="0"/></a>
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9zavt.png" width="" height="200" border="0"/></a>
  -->
+ - 加微信群不定时发布淘宝优惠券信息！  
+<a href="#" onclick="return false;"><img src="https://s1.ax2x.com/2018/06/29/nOIkn.png" width="" height="300" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/10/03/i3UGlV.png" width="" height="300" border="0"/></a> 
+
 ---
