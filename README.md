@@ -33,7 +33,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 > <h3>收费：</h3>     
 1. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
 2. 良辰云：<a href="https://xn--9kq677j3ki.app/" target="_blank">https://xn--9kq677j3ki.app/</a>       
-3. codage：<a href="https://codage.cc/" target="_blank">https://codage.cc/</a>    
+3. codage：<a href="http://yuntu.ca/" target="_blank">http://yuntu.ca/</a>｛和云图小镇合并了｝    
 4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
 5. 渡口：<a href="https://eeeesile.com/" target="_blank">https://eeeesile.com/</a>   
 6. 凿壁借光SSR：<a href="http://www.superssr.me/" target="_blank">http://www.superssr.me/</a>  
@@ -41,7 +41,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 8. cordcloud：<a href="https://www.cordcloud.me/" target="_blank">https://www.cordcloud.me/</a>
 9. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
 10. 鲨鱼：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>  
-11. 红杏出墙：<a href="https://xn--s93a.xn--g2x.xn--qoqz5x.tw/" target="_blank">https://xn--s93a.xn--g2x.xn--qoqz5x.tw/</a>  
+11. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>  
 12. 茶壶加速：<a href="https://www.teapot.pw" target="_blank">https://www.teapot.pw</a>｛新机场线路少，便宜｝  
 99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
 
