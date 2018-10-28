@@ -44,7 +44,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 9. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
 10. 鲨鱼：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>  
 11. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>  
-12. 渔网加速：<a href="https://www.teapot.pw" target="_blank">https://www.teapot.pw</a>｛最近改了个名字 | 原名（茶壶加速）｝  
+12. 渔网加速：<a href="https://www.teapot.pw" target="_blank">https://www.teapot.pw</a>｛最近改了个名字  原名（茶壶加速）｝  
 13. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>  
 99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
 
