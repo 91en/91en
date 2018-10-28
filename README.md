@@ -68,8 +68,8 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9xLB8.png" width="" height="200" border="0"/></a>
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9zavt.png" width="" height="200" border="0"/></a>
  -->  
-<a href="#" onclick="return false;"><img src="https://s1.ax2x.com/2018/06/29/nOIkn.png" width="190" height="300" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/10/23/ir2eJK.png" width="180" height="300" border="0"/>
+<a href="#" onclick="return false;"><img src="https://s1.ax2x.com/2018/06/29/nOIkn.png" width="" height="300" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/10/28/ic5KmV.png" width="" height="300" border="0"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/10/28/ic5eln.jpg" width="" height="300" border="0"/>
 </a>
