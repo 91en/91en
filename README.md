@@ -2,7 +2,6 @@
 --- 
 这里将用来分享一些代理信息！也做为本人自用备份！其中包含了ss/ssr和v2商家！  
 - 以下小部分亲自试用过！顺序不分先后！（但不保证稳定与否）
-- 避免说闲话，以下链接不包含aff，如果觉得不错还请打赏一下！
 - 有些商家可能需要邀请码之类的！（本站不提供）  
 - 收费：一定有付费线路，但可能部分有免费线路！  
 - 免费：基本上纯公益免费！  
@@ -16,7 +15,7 @@
 ### v2ray 
 ---
 纯v2ray推荐：
-v2raypro：<a href="https://www.v2raypro.top/" target="_blank">https://www.v2raypro.top/</a>  
+v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.top/</a>  
 - 本人长期使用，线路稳速度快，SVIP线路多！
 - 纯v2ray线路，有权限限制，目的是防止攻击！  
 - <a href="https://www.v2raypro.top/announcements.php?id=106" target="_blank">用户节点权限说明</a>   
@@ -46,6 +45,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 11. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>  
 12. 渔网加速：<a href="https://www.teapot.pw" target="_blank">https://www.teapot.pw</a>｛最近改了个名字  原名（茶壶加速）｝  
 13. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>  
+14. 浣溪沙：<a href="https://www.ssrainyboy.com" target="_blank">https://www.ssrainyboy.com</a>｛6元/月、66/年无限流量，节点不多，但香港节点居多｝  
 99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
 
 ---  
