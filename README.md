@@ -8,7 +8,6 @@
 - 如遇打不开官网或线路不能使用请自行联系商家！     
 - 服务商稳定与否请自行尝试，跑路与否等与本人无关！  
 - 建了个云盘：[http://www.74yun.top/](http://www.74yun.top/)｛小部分正规电影收藏，自用的一些软件分享｝  
-- 有事加我个人微信，扩圈也是可以的！（二维码在最下面）
 
 ---   
 ### v2ray 
@@ -61,7 +60,7 @@ LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.ne
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
 
 --- 
-#### 微信群不定时发布淘宝优惠券信息！
+#### 支付宝领红包！
 ---
 <!-- 
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9xLB8.png" width="" height="200" border="0"/></a>
