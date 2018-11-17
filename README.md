@@ -37,7 +37,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 6. 凿壁借光SSR：<a href="http://www.superssr.me/" target="_blank">http://www.superssr.me/</a>      
 7. cordcloud：<a href="https://www.cordcloud.me/" target="_blank">https://www.cordcloud.me/</a>
 8. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
-9. 鲨鱼：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>  
+9. 星之所在：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>｛原鲨鱼改名｝  
 10. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>  
 11. 渔网加速：<a href="https://www.teapot.pw" target="_blank">https://www.teapot.pw</a>｛最近改了个名字  原名（茶壶加速）｝  
 12. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>  
