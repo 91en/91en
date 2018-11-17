@@ -24,8 +24,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 2.新增试用订阅V2rayPro Trial Plan 50g/30天有效期 到期后无法续费  
 
 ---
-LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.net/</a>  
-- 新机场，不怕的可以趁便宜入手
+1. LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.net/</a>  
 
 ---
 
