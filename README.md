@@ -47,7 +47,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 
 > <h3>免费：</h3>    
 1. 我想开心上网（推荐）：<a href="https://wangzi.gq/" target="_blank">https://wangzi.gq/</a>｛新站部分线路支持v2ray，每日限量注册，需要邀请码可以到<a href="https://t.me/joinchat/F6lKrUMKir4jj-jiTn7oQQ" target="_blank">Telegram官方群获取</a>｝   
-2. ssrshare：<a href="https://stool.cf/tool/free_ssr" target="_blank">https://stool.cf/tool/free_ssr</a>｛经常被污染，我尽力了｝备用一个官方论坛：<a href="https://www.ssrshare.com" target="_blank">https://www.ssrshare.com</a>｛需翻墙｝   
+2. ssrshare：<a href="https://stool.cf/tool/free_ssr" target="_blank">https://stool.cf/tool/free_ssr</a>｛经常被污染，我尽力了｝备用一个官方论坛：<a href="https://www.ssrshare.com" target="_blank">https://www.ssrshare.com</a>｛需翻墙,使用白名单｝   
 3. ishadowx：<a href="https://x.ishadowx.net/" target="_blank">https://x.ishadowx.net/</a> 备用：<a href="http://isx.yt" target="_blank">isx.yt</a> & <a href="http://dwz.pm/x" target="_blank">dwz.pm/x</a>｛之前挂了找回组织｝    
 
 ---
