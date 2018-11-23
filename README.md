@@ -34,8 +34,8 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 3. codage：<a href="http://yuntu.ca/" target="_blank">http://yuntu.ca/</a>｛和云图小镇合并了｝    
 4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
 5. 渡口：<a href="https://eeeesile.com/" target="_blank">https://eeeesile.com/</a>   
-6. 凿壁借光SSR：<a href="http://www.superssr.me/" target="_blank">http://www.superssr.me/</a>      
-7. cordcloud：<a href="https://www.cordcloud.me/" target="_blank">https://www.cordcloud.me/</a>
+6. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>      
+7. cordcloud：<a href="https://www.cordcloud.cc/" target="_blank">https://www.cordcloud.cc/</a>
 8. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
 9. 星之所在：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>｛原鲨鱼改名｝  
 10. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
