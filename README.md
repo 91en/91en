@@ -6,11 +6,11 @@
 - 收费：一定有付费线路，但可能部分有免费线路！  
 - 免费：基本上纯公益免费！  
 - 如遇打不开官网或线路不能使用请自行联系商家！     
-- 服务商稳定与否请自行尝试，跑路与否等与本人无关！  
+- 服务商线路稳定性、跑路等情况与本人无关！纯搬运！  
 - 建了个云盘：<a href="https://www.74yun.top/" target="_blank">https://www.74yun.top/</a>｛小部分正规电影收藏，自用的一些软件分享｝  
 
 ---   
-### v2ray 
+### v2ray(收费) 
 ---
 纯v2ray推荐：
 v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank">https://www.v2raypro.top/</a>  
@@ -24,7 +24,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 2.新增试用订阅V2rayPro Trial Plan 50g/30天有效期 到期后无法续费  
 
 ---
-1. LostCloud：<a href="https://lostcloud.net" target="_blank">https://lostcloud.net/</a>  
+1. LostCloud：<a href="https://lostcloud.gitlab.io" target="_blank">https://lostcloud.gitlab.io</a>｛价格相对较低但风险较大｝  
 
 ---
 
