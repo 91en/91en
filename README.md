@@ -51,6 +51,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 2. ssrshare：<a href="https://stool.cf/tool/free_ssr" target="_blank">https://stool.cf/tool/free_ssr</a>｛官方论坛：<a href="https://www.ssrshare.com" target="_blank">https://www.ssrshare.com</a>｛需翻墙,自行添加黑白名单｝｝   
 3. ishadowx：<a href="https://x.ishadowx.net/" target="_blank">https://x.ishadowx.net/</a> 备用：<a href="http://isx.yt" target="_blank">isx.yt</a> & <a href="http://dwz.pm/x" target="_blank">dwz.pm/x</a>｛之前挂了找回组织｝    
 4. Poro免费版：<a href="http://poro.dog/auth/login" target="_blank">http://poro.dog/auth/login</a>｛导航网址：<a href="https://poro.plus/" target="_blank">https://poro.plus/</a>｝  
+5. 天际网络：<a href="https://ss.proxyv2.club" target="_blank">https://ss.proxyv2.club</a>｛新机场目前有免费也可5元包月，v2raypro机场的老大弄的ssr机场，赶紧入手！｝
 
 ---
 > <h3>免费Telegram群</h3>  
