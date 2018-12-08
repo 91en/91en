@@ -58,13 +58,14 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
 
 --- 
-#### 支付宝领红包！
+#### 支付宝领红包！  
+##### 不用打赏 不用捐助 如果觉得资源不错 扫码领个红包呗！
 ---
 <!-- 
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9xLB8.png" width="" height="200" border="0"/></a>
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9zavt.png" width="" height="200" border="0"/></a>
  -->  
-<a href="#" onclick="return false;"><img src="https://s1.ax2x.com/2018/06/29/nOIkn.png" width="" height="300" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/12/08/F3L4pt.jpg" width="" height="300" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/11/02/ih5pkt.jpg" width="400" height="" border="0"/>
 </a>
 ---
