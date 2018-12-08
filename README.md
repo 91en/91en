@@ -65,7 +65,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 <a href="javascript:void(0);" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9xLB8.png" width="" height="200" border="0"/></a>
 <a href="javascript:void(0);" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9zavt.png" width="" height="200" border="0"/></a>
  -->  
-<a href="javascript:void(0);" onclick="return false;"><img src="https://s1.ax1x.com/2018/12/08/F3L4pt.jpg" width="" height="300" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="javascript:void(0);" onclick="return false;"><img src="https://s1.ax1x.com/2018/11/02/ih5pkt.jpg" width="400" height="" border="0"/>
+<a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/12/08/F3L4pt.jpg" width="" height="300" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/11/02/ih5pkt.jpg" width="400" height="" border="0"/>
 </a>
 ---
