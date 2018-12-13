@@ -12,7 +12,7 @@
 ### v2ray(收费) 
 ---
 纯v2ray推荐：  
-<font color=#ed1941>v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">https://www.v2raypro.top/</span></a></font>  
+v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">https://www.v2raypro.top/</span></a>  
 - 本人长期使用，线路稳速度快，SVIP线路多！
 - 纯v2ray线路，有权限限制，目的是防止攻击！  
 - <a href="https://www.v2raypro.top/announcements.php?id=106" target="_blank">用户节点权限说明</a>   
@@ -28,8 +28,8 @@
 ---
 
 > <h3>收费：</h3>     
-1. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
-2. MENGDI-SS：<a href="https://www.shadowsock5.com/auth/register?code=2JipiD7jDrvOsWUuRlhuqBBXAadjcMlC" target="_blank"><span style="color:#ed1941;">https://www.shadowsock5.com</span></a>｛推荐｝     
+1. MENGDI-SS：<a href="https://www.shadowsock5.com/auth/register?code=2JipiD7jDrvOsWUuRlhuqBBXAadjcMlC" target="_blank"><span style="color:#ed1941;">https://www.shadowsock5.com</span></a>｛推荐｝     
+2. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
 3. codage：<a href="http://yuntu.ca/" target="_blank">http://yuntu.ca/</a>｛和云图小镇合并了｝    
 4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
 5. 渡口：<a href="https://eeeesile.com/" target="_blank">https://eeeesile.com/</a>   
