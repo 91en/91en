@@ -28,21 +28,21 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 ---
 
 > <h3>收费：</h3>     
-1. MENGDI-SS：<a href="https://www.shadowsock5.com/auth/register?code=2JipiD7jDrvOsWUuRlhuqBBXAadjcMlC" target="_blank"><span style="color:#ed1941;">https://www.shadowsock5.com</span></a>｛推荐｝     
-2. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
-3. codage：<a href="http://yuntu.ca/" target="_blank">http://yuntu.ca/</a>｛和云图小镇合并了｝    
-4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
-5. 渡口：<a href="https://eeeesile.com/" target="_blank">https://eeeesile.com/</a>   
-6. 良辰云：<a href="https://xn--9kq677j3ki.app/" target="_blank">https://xn--9kq677j3ki.app/</a>   
-7. cordcloud：<a href="https://www.cordcloud.cc/" target="_blank">https://www.cordcloud.cc/</a>
-8. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
-9. 星之所在：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>｛原鲨鱼改名｝  
-10. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
-11. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>  
-12. 浣溪沙：<a href="https://www.ssrstudy.com/auth/login" target="_blank">https://www.ssrstudy.com/auth/login</a>｛8.9元/月、99/年无限流量，香港节点居多｝  
-13. Poro专业版：<a href="https://poro.one/auth/login" target="_blank">https://poro.one/auth/login</a>  
-14. 非凡加速：<a href="https://ss.proxyv2.club" target="_blank">https://ss.proxyv2.club</a>｛新机场目前有免费也可5元包月，v2raypro机场的老大弄的ssr机场，赶紧入手！｝  
-15. 辉耀网络：<a href="https://huiyaossr.com/" target="_blank">https://huiyaossr.com/</a>  
+1. MENGDI-SS：<a href="https://www.shadowsock5.com/auth/register?code=2JipiD7jDrvOsWUuRlhuqBBXAadjcMlC" target="_blank"><span style="color:#ed1941;">https://www.shadowsock5.com</span></a>｛推荐｝   
+2. 辉耀网络：<a href="https://huiyaossr.com/auth/register?code=F36M" target="_blank"><span style="color:#ed1941;">https://huiyaossr.com/</span></a>｛推荐｝    
+3. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
+4. codage：<a href="http://yuntu.ca/" target="_blank">http://yuntu.ca/</a>｛和云图小镇合并了｝    
+5. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
+6. 渡口：<a href="https://eeeesile.com/" target="_blank">https://eeeesile.com/</a>   
+7. 良辰云：<a href="https://xn--9kq677j3ki.app/" target="_blank">https://xn--9kq677j3ki.app/</a>   
+8. cordcloud：<a href="https://www.cordcloud.cc/" target="_blank">https://www.cordcloud.cc/</a>
+9. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
+10. 星之所在：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>｛原鲨鱼改名｝  
+11. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
+12. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>  
+13. 浣溪沙：<a href="https://www.ssrstudy.com/auth/login" target="_blank">https://www.ssrstudy.com/auth/login</a>｛8.9元/月、99/年无限流量，香港节点居多｝  
+14. Poro专业版：<a href="https://poro.one/auth/login" target="_blank">https://poro.one/auth/login</a>  
+15. 非凡加速：<a href="https://ss.proxyv2.club" target="_blank">https://ss.proxyv2.club</a>｛新机场目前有免费也可5元包月，v2raypro机场的老大弄的ssr机场，赶紧入手！｝  
 16. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>    
 99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
 
