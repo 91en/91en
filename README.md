@@ -44,7 +44,7 @@ v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank
 14. Poro专业版：<a href="https://poro.one/auth/login" target="_blank">https://poro.one/auth/login</a>  
 15. 非凡加速：<a href="https://ss.proxyv2.club" target="_blank">https://ss.proxyv2.club</a>｛新机场目前有免费也可5元包月，v2raypro机场的老大弄的ssr机场，赶紧入手！｝  
 16. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>    
-99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
+酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
 
 ---  
 
