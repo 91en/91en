@@ -11,7 +11,7 @@
 ---   
 ### v2ray(收费) 
 ---
-纯v2ray推荐： 
+纯v2ray推荐：  
 <font color=#ed1941>v2raypro：<a href="https://www.v2raypro.top/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">https://www.v2raypro.top/</span></a></font>  
 - 本人长期使用，线路稳速度快，SVIP线路多！
 - 纯v2ray线路，有权限限制，目的是防止攻击！  
