@@ -57,7 +57,7 @@ v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bl
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
 
 ---
-<font color="red">收集是我的本事，你不想别人看到，我求你关掉！别没事找事！</font>  
+# <font color="red">收集是我的本事，你不想别人看到，我求你关掉！别没事找事！</font>  
 
 ---
 
