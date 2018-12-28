@@ -1,12 +1,11 @@
 ## 欢迎来到91en  
 --- 
-这里将用来分享一些代理信息！也做为本人自用备份！其中包含了ss/ssr和v2商家！  
-- 以下小部分亲自试用过！顺序不分先后！（但不保证稳定与否）
-- 有些商家可能需要邀请码之类的！（本站不提供）  
-- 收费：一定有付费线路，但可能部分有免费线路！  
-- 免费：基本上纯公益免费！  
-- 如遇打不开官网或线路不能使用请自行联系商家！     
-- 服务商线路稳定性、跑路等情况与本人无关！纯搬运！  
+纯收集、备用、防失联！  
+- 不接受任何删除或修改要求，你可以换域名，可以关停！（失联了我会删除，备用是看得起你）  
+- 遇到任何dd、cc与我无关！（仅承诺我没那么无聊）  
+- 有些商家可能需要邀请码之类的！（本站不提供任何邀请码）   
+- 任何问题请自行联系商家！（纯收集，不承担任何责任）    
+- 最后，纯收集、备用，请勿分享，宣传！一切商业用途与本人无关！  
 
 ---   
 ### v2ray(收费) 
@@ -59,15 +58,12 @@ v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bl
 1. <a href="https://t.me/SSRlist" target="_blank">SSR节点免费发放</a>  
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
 
+<!-- 
 --- 
 #### 支付宝领红包！  
-##### 不用打赏 不用捐助 如果觉得资源不错 扫码领个红包呗！
----
-<!-- 
-<a href="javascript:void(0);" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9xLB8.png" width="" height="200" border="0"/></a>
-<a href="javascript:void(0);" onclick="return false;"><img src="https://s1.ax1x.com/2018/09/06/i9zavt.png" width="" height="200" border="0"/></a>
- -->  
-<a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/12/08/F3L4pt.jpg" width="" height="300" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" onclick="return false;"><img src="https://s1.ax1x.com/2018/11/02/ih5pkt.jpg" width="400" height="" border="0"/>
-</a>
+##### 不用打赏 不用捐助 如果觉得资源不错 扫码领个红包呗！   
+--- 
+<a href="javascript:void(0);" onclick="return false;"><img src="https://s1.ax1x.com/2018/12/08/F3L4pt.jpg" width="" height="200" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+-->  
+
 ---
