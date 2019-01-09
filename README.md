@@ -9,7 +9,7 @@
 ### v2ray(收费) 
 ---
 纯v2ray推荐：  
-v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">http://proxyv2.club</span></a>  
+v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">http://proxyv2.xyz/</span></a>  
 - 本人长期使用，线路稳速度快，SVIP线路多！
 - 纯v2ray线路，有权限限制，目的是防止攻击！  
 - <a href="https://www.v2raypro.top/announcements.php?id=106" target="_blank">用户节点权限说明</a>   
@@ -37,9 +37,8 @@ v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bl
 11. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
 12. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>  
 13. 浣溪沙：<a href="https://www.ssrstudy.com/auth/login" target="_blank">https://www.ssrstudy.com/auth/login</a>｛8.9元/月、99/年无限流量，香港节点居多｝  
-14. Poro专业版：<a href="https://poro.one/auth/login" target="_blank">https://poro.one/auth/login</a>  
-15. 非凡加速：<a href="https://ss.proxyv2.club" target="_blank">https://ss.proxyv2.club</a>｛新机场目前有免费也可5元包月，v2raypro机场的老大弄的ssr机场，赶紧入手！｝  
-16. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>    
+14. Poro专业版：<a href="https://poro.one/auth/login" target="_blank">https://poro.one/auth/login</a>    
+15. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>    
 99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
 
 ---  
