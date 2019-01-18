@@ -25,7 +25,7 @@ v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bl
 ---
 > <h3>收费：</h3>     
 1. MENGDI-SS：<a href="https://www.shadowsock5.com/auth/register?code=2JipiD7jDrvOsWUuRlhuqBBXAadjcMlC" target="_blank"><span style="color:#ed1941;">https://www.shadowsock5.com</span></a>｛推荐｝   
-2. 辉耀网络：<a href="https://huiyaossr.com/auth/register?code=F36M" target="_blank"><span style="color:#ed1941;">https://huiyaossr.com/</span></a>｛主站维护，时间待定｝    
+2. 辉耀网络：<a href="https://huiyaossr.com/auth/register?code=F36M" target="_blank"><span style="color:#ed1941;">https://huiyaossr.com/</span></a>｛已回复｝    
 3. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
 4. codage：<a href="http://yuntu.ca/" target="_blank">http://yuntu.ca/</a>｛和云图小镇合并了｝    
 5. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
