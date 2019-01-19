@@ -39,7 +39,7 @@ v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bl
 13. 浣溪沙：<a href="https://www.ssrstudy.com/auth/login" target="_blank">https://www.ssrstudy.com/auth/login</a>｛8.9元/月、99/年无限流量，香港节点居多｝  
 14. Poro专业版：<a href="https://poro.one/auth/login" target="_blank">https://poro.one/auth/login</a>    
 15. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>    
-99. 酸奶：<a href="https://www.ssru.xyz/" target="_blank">https://www.ssru.xyz/</a>｛有免费线路，但这家管理比较自以为是，部分付费线路是以前免费的线路，新加坡、香港等线路都没有，自行斟酌！｝  
+99. 酸奶：<a href="https://www.suannai.info/" target="_blank">https://www.suannai.info/</a>｛管理是煞笔鉴定完毕｝  
 
 ---  
 
