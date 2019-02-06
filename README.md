@@ -37,7 +37,7 @@ v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bl
 11. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
 12. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>  
 13. ~~浣溪沙：<a href="https://www.ssrstudy.com/auth/login" target="_blank">https://www.ssrstudy.com/auth/login</a>｛已被打死｝~~  
-14. Poro专业版：<a href="https://poro.one/auth/login" target="_blank">https://poro.one/auth/login</a>    
+14. Poro专业版：<a href="https://poro.vip/auth/login" target="_blank">https://poro.vip/</a>    
 15. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>    
 99. 酸奶：<a href="https://www.suannai.info/" target="_blank">https://www.suannai.info/</a>｛管理是煞笔鉴定完毕｝  
 
@@ -47,7 +47,7 @@ v2raypro：<a href="https://portal.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bl
 1. 免费EDU学术引擎：<a href="https://wangzi.edu.pl/" target="_blank"><span style="color:#ed1941;">https://wangzi.edu.pl/</span></a>｛已恢复｝临时站点：<a href="https://藨麓.ml" target="_blank"><span style="color:#ed1941;">https://藨麓.ml</span></a>｛推荐，需要邀请码可以到<a href="https://t.me/joinchat/F6lKrUMKir4jj-jiTn7oQQ" target="_blank">Telegram群获取</a>｝ 
 2. ssrshare：<a href="https://www.stool.gq/" target="_blank">https://www.stool.gq/</a>｛官方论坛：<a href="https://www.ssrshare.com" target="_blank">https://www.ssrshare.com</a>｛需翻墙,自行添加黑白名单｝｝   
 3. ishadowx：<a href="https://c.ishadowx.com/" target="_blank">https://c.ishadowx.com/</a> 备用：<a href="http://isx.yt" target="_blank">isx.yt</a> & <a href="http://dwz.pm/x" target="_blank">dwz.pm/x</a>｛之前挂了找回组织｝    
-4. Poro免费版：<a href="http://poro.dog/auth/login" target="_blank">http://poro.dog/auth/login</a>｛导航网址：<a href="https://poro.plus/" target="_blank">https://poro.plus/</a>｝  
+4. Poro免费版：<a href="http://poro.fun/auth/login" target="_blank">http://poro.fun/</a>｛导航网址：<a href="http://poro.icu/" target="_blank">http://poro.icu/</a>｝  
 
 ---
 > <h3>免费Telegram群</h3>  
