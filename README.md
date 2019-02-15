@@ -15,9 +15,6 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 - <a href="https://panel.v2raypro.xyz/index.php/announcements/106/9or16.html" target="_blank">用户节点权限说明</a>   
 - windows/mac平台有定制版客户端！  
 - 支持订阅！  
-2018-09-21：优惠活动：  
-1.即日起至10月8日，所有年付类套餐，新购及续费使用（优惠码：中秋国庆双节狂欢）即可享受7.8折优惠  
-2.新增试用订阅V2rayPro Trial Plan 50g/30天有效期 到期后无法续费  
 
 ---
 1. LostCloud：<a href="https://lostcloud.gitlab.io" target="_blank">https://lostcloud.gitlab.io</a> 备用：<a href="https://lostcloud.org" target="_blank">https://lostcloud.org</a> & <a href="https://lostcloud.cf" target="_blank">https://lostcloud.cf</a>｛价格相对较低但风险较大｝  
@@ -37,7 +34,7 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 11. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
 12. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>   
 13. Poro专业版：<a href="https://poro.vip/auth/login" target="_blank">https://poro.vip/</a>    
-14. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>    
+~~14. 凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>｛失联了，找不到了｝~~  
 99. 酸奶：<a href="https://www.suannai.info/" target="_blank">https://www.suannai.info/</a>｛管理是煞笔鉴定完毕｝  
 
 ---  
