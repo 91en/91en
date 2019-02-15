@@ -35,7 +35,7 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 12. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>   
 13. Poro专业版：<a href="https://poro.vip/auth/login" target="_blank">https://poro.vip/</a>    
 14. ~~凿壁借光SSR：<a href="http://rss.superssr.me/" target="_blank">http://rss.superssr.me/</a>｛失联了，找不到了｝~~  
-99. 酸奶：<a href="https://www.suannai.info/" target="_blank">https://www.suannai.info/</a>｛管理是煞笔鉴定完毕｝  
+99. 酸奶：<a href="https://www.suannai.info/" target="_blank">https://www.suannai.info/</a>｛本是免费，现在收费了！管理态度恶劣不爱用！｝  
 
 ---  
 
@@ -49,8 +49,5 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 > <h3>免费Telegram群</h3>  
 1. <a href="https://t.me/SSRlist" target="_blank">SSR节点免费发放</a>  
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
-
----
-### 收集是我的本事，你不想别人看到，我求你关掉！别没事找事！
 
 ---
