@@ -8,8 +8,6 @@
 ---
 ### 74vip全网影视app
 ---
-源码是烂大街的千月2018年12月最后一个版本！  
-个人感觉这个版本好用些！2019的新版本多多少少都有bug！  
 - 全平台VIP影视剧任意看！  
 - 只支持安卓端！  
 - <a href="http://vip.74yun.top" target="_blank"><span style="color:#ed1941;">安卓端下载地址</span></a>
