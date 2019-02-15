@@ -51,3 +51,9 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
 
 ---
+> <h3>74vip全网影视app</h3>
+- 只支持安卓端，ios就不用看了！
+- 全平台VIP影视剧任意看！
+<a href="http://vip.74yun.top"><i class="fas fa-download"></i> 安卓端下载</a>
+
+---
