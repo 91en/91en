@@ -6,6 +6,12 @@
 - 最后，找到这里是你的本事，请勿分享，宣传！  
 
 ---
+> <h3>74vip全网影视app</h3>
+- 只支持安卓端，ios就不用看了！  
+- 全平台VIP影视剧任意看！  
+<a href="http://vip.74yun.top"> 安卓端下载地址</a>
+
+---
 ### v2ray(收费) 
 ---
 纯v2ray推荐：  
@@ -49,11 +55,5 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 > <h3>免费Telegram群</h3>  
 1. <a href="https://t.me/SSRlist" target="_blank">SSR节点免费发放</a>  
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
-
----
-> <h3>74vip全网影视app</h3>
-- 只支持安卓端，ios就不用看了！  
-- 全平台VIP影视剧任意看！  
-<a href="http://vip.74yun.top"> 安卓端下载地址</a>
 
 ---
