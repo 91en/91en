@@ -6,10 +6,11 @@
 - 最后，找到这里是你的本事，请勿分享，宣传！  
 
 ---
-> <h3>74vip全网影视app</h3>
-- 只支持安卓端，ios就不用看了！  
-- 全平台VIP影视剧任意看！  
-<a href="http://vip.74yun.top"> 安卓端下载地址</a>
+### 74vip全网影视app
+---
+- 全平台VIP影视剧任意看！
+- 只支持安卓端！  
+<a href="http://vip.74yun.top" target="_blank"><span style="color:#ed1941;">安卓端下载地址</span></a>
 
 ---
 ### v2ray(收费) 
