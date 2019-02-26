@@ -47,7 +47,7 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 ---  
 
 > <h3>免费：</h3>    
-1. 免费EDU学术引擎：<a href="https://wangzi.edu.pl/" target="_blank"><span style="color:#ed1941;">https://wangzi.edu.pl/</span></a>｛已恢复｝临时站点：<a href="https://藨麓.ml" target="_blank"><span style="color:#ed1941;">https://藨麓.ml</span></a>｛推荐，需要邀请码可以到<a href="https://t.me/joinchat/F6lKrUMKir4jj-jiTn7oQQ" target="_blank">Telegram群获取</a>｝ 
+1. 免费EDU学术引擎：<a href="https://wangzi.edu.pl/" target="_blank"><span style="color:#ed1941;">https://wangzi.edu.pl/</span></a>｛已恢复｝临时站点：<a href="http://ff123.ml/" target="_blank"><span style="color:#ed1941;">http://ff123.ml/</span></a>｛推荐，但是3天不用就会被删除，需要邀请码可以到<a href="https://t.me/joinchat/F6lKrUMKir4jj-jiTn7oQQ" target="_blank">Telegram群获取</a>｝ 
 2. ssrshare：<a href="https://www.stool.gq/" target="_blank">https://www.stool.gq/</a>｛官方论坛：<a href="https://www.ssrshare.com" target="_blank">https://www.ssrshare.com</a>｛需翻墙,自行添加黑白名单｝｝   
 3. ishadowx：<a href="https://c.ishadowx.com/" target="_blank">https://c.ishadowx.com/</a> 备用：<a href="http://isx.yt" target="_blank">isx.yt</a> & <a href="http://dwz.pm/x" target="_blank">dwz.pm/x</a>｛之前挂了找回组织｝    
 4. Poro免费版：<a href="http://poro.fun/auth/login" target="_blank">http://poro.fun/</a>｛导航网址：<a href="http://poro.icu/" target="_blank">http://poro.icu/</a>｝  
