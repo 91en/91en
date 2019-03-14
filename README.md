@@ -24,7 +24,7 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 - 支持订阅！  
 
 ---
-1. LostCloud：<a href="https://lostcloud.gitlab.io" target="_blank">https://lostcloud.gitlab.io</a> 备用：<a href="https://lostcloud.org" target="_blank">https://lostcloud.org</a> & <a href="https://lostcloud.cf" target="_blank">https://lostcloud.cf</a>｛价格相对较低但风险较大｝  
+1. LostCloud：<a href="https://lostcloud.gitlab.io" target="_blank">https://lostcloud.gitlab.io</a> 备用：<a href="https://lostcloud.org" target="_blank">https://lostcloud.org</a> & <a href="https://lostcloud.cf" target="_blank">https://lostcloud.cf</a>｛貌似chrome全局代理才能打开｝  
 
 ---
 > <h3>收费：</h3>     
