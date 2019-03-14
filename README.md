@@ -7,8 +7,7 @@
 
 ---
 ### 74vip影视
-- 免费网页版  
-<a href="http://v.74vip.top/" target="_blank"><img src="https://s2.ax1x.com/2019/03/14/AAP9Vs.png"/></a>
+- 免费网页版<a href="http://v.74vip.top/" target="_blank"><img src="https://s2.ax1x.com/2019/03/14/AAP9Vs.png"/></a>
 
 ---
 ### 74vip全网影视app
