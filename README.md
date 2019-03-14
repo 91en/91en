@@ -6,11 +6,13 @@
 - 最后，找到这里是你的本事，请勿分享，宣传！  
 
 ---
-### 74vip影视
-- 免费网页版<a href="http://v.74vip.top/" target="_blank"><img src="https://s2.ax1x.com/2019/03/14/AAP9Vs.png"/></a>
+### 74vip全网影视（免费）
+---
+网页版：
+<a href="http://v.74vip.top/" target="_blank"><img src="https://s2.ax1x.com/2019/03/14/AAP9Vs.png"/></a>
 
 ---
-### 74vip全网影视app
+### 74vip全网影视app（收费）
 ---
 - 全平台VIP影视剧任意看！  
 - 只支持安卓端！  
