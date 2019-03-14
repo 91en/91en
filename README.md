@@ -39,7 +39,7 @@ v2raypro：<a href="https://panel.v2raypro.xyz/aff.php?aff=3&gid=5" target="_bla
 9. 星之所在：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>｛原鲨鱼改名｝  
 10. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
 11. 东方网络：<a href="https://touhou.cloud/" target="_blank">https://touhou.cloud/</a>   
-12. Poro专业版：<a href="https://poro.vip/auth/login" target="_blank">https://poro.vip/</a>    
+12. Poro专业版：<a href="http://poro.vip/auth/login" target="_blank">http://poro.vip/auth/login</a>    
 13. MENGDI-SS：<a href="https://mdss.cloud/" target="_blank">https://mdss.cloud</a>   
 14. ~~凿壁借光SSR：<a href="#" target="_blank">http://rss.superssr.me/</a>｛失联了，找不到了｝~~  
 99. 酸奶：<a href="https://www.suannai.info/" target="_blank">https://www.suannai.info/</a>｛本是免费，现在收费了！管理态度恶劣不爱用！｝  
