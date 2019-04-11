@@ -2,7 +2,7 @@
 // @name              mioplus_VIP 视频解析
 // @name:en           mioplus_VIP Videos
 // @namespace         https://www.91ost.top/
-// @version           1.3
+// @version           1.5
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @description:en    Support for custom interfaces, support for inbound and outbound resolution
 // @author            mioplus
@@ -199,7 +199,7 @@
         if (location.href.indexOf("www.iqiyi.com") > -1){
             GMaddStyle(`.fn-iqiyi-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
             var iqiyi_jiexi = $("<div class='func-item'><span class='func-inner fn-iqiyi-jiexi-text' style='line-height:40px;'><span class='func-name'>解析</span></span>" +
-                                "<div class='qy-func-jiexi-pop fn-iqiyi-jiexi' style='display:none;position:absolute;left:-50px;text-align:center;'><div class='qy-popup-box' style='background-color:#2e2e2e;border:1px solid gray;'>" +
+                                "<div class='qy-func-jiexi-pop fn-iqiyi-jiexi' style='display:none;position:absolute;left:-50px;text-align:center;z-index:2147483647;'><div class='qy-popup-box' style='background-color:#2e2e2e;border:1px solid gray;'>" +
                                 jiexiDIV + "</div></div></div>");
             var addButtonLoop = setInterval(()=>{
                 if($(".func-like-v1").is(":visible") && !document.getElementsByClassName("fn-iqiyi-jiexi")[0]){
@@ -670,7 +670,7 @@
             document.getElementById("pptv-jiexi-btn").addEventListener("mouseout",()=>{
                 $("#fn-pptv-jiexi").hide();
             });
-            document.getElementById("pptv-jiexi-btn").addEventListener("click",()=>{
+            document.getElementsByClassName("pptv_jiexi-text")[0].addEventListener("click",()=>{
                 if(document.getElementById("iframe-player") == null){
                     var pptv_playpage_box = $("#pptv_playpage_box");
                     pptv_playpage_box.empty();
