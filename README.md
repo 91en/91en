@@ -7,8 +7,8 @@
 - 百度文库下载券 源文件代下服务，1元1次！需要请联系QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=396866674&site=qq&menu=yes" target="_blank">396866674</a>｛不是站长QQ，本站问题请勿联系｝  
 
 ---
-### 74vip网站导航（收藏和搭建的站点太多搭了一个导航站）
-<a href="https://74vip.top/" target="_blank"><img src="https://s2.ax1x.com/2019/04/12/AbMkon.png" alt="AbMkon.png" border="0" /></a>  
+#### 74vip网站导航（突然发现收藏和搭建的网站太多，索性弄了个导航）
+<a href="https://74vip.top/" target="_blank" style="text-decoration:none;">点此跳转→<img src="https://s2.ax1x.com/2019/04/12/AbMkon.png" alt="AbMkon.png" border="0" /></a>  
 
 ---
 ### v2ray(收费) 
