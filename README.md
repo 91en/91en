@@ -7,15 +7,8 @@
 - 百度文库下载券 源文件代下服务，1元1次！需要请联系QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=396866674&site=qq&menu=yes" target="_blank">396866674</a>｛不是站长QQ，本站问题请勿联系｝  
 
 ---
-### 74vip全网影视（免费）
-网页版：
-<a href="http://v.74vip.top/" target="_blank"><img src="https://s2.ax1x.com/2019/04/09/AIF3gf.png"/></a>
-
----
-### 74vip全网影视app（收费）
-- 全平台VIP影视剧任意看！  
-- 只支持安卓端！  
-- <a href="http://vip.74yun.top" target="_blank"><span style="color:#ed1941;">安卓端下载地址</span></a>
+### 74vip网站导航（收藏和搭建的站点太多搭了一个导航站）
+<a href="https://74vip.top/" target="_blank"><img src="https://s2.ax1x.com/2019/04/12/AbMkon.png" alt="AbMkon.png" border="0" /></a>  
 
 ---
 ### v2ray(收费) 
