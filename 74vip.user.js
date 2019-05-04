@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name              mioplus_VIP 视频解析
-// @name:en           mioplus_VIP Videos
+// @name              74vip 视频解析
+// @name:en           74vip Videos
 // @namespace         https://www.91ost.top/
 // @version           1.5
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
