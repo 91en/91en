@@ -34,7 +34,7 @@ v2raypro：<a href="https://control.v2raypro.xyz/aff.php?aff=3&gid=5" target="_b
 6. 良辰云：<a href="https://xn--9kq677j3ki.app/" target="_blank">https://xn--9kq677j3ki.app/</a>   
 7. cordcloud：<a href="https://www.cordcloud.cc/" target="_blank">https://www.cordcloud.cc/</a>
 8. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
-9. ~~星之所在：<a href="https://staryun.me/" target="_blank">https://staryun.me/</a>~~  
+9. 樱云：<a href="https://xn--9kq568d.ws/" target="_blank">https://xn--9kq568d.ws/</a>  
 10. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
 11. 东方网络：<a href="https://touhou.io/" target="_blank">https://touhou.io/</a>   
 12. Poro专业版：<a href="http://poro.vip/auth/login" target="_blank">http://poro.vip/auth/login</a>    
