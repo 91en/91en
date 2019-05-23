@@ -39,7 +39,7 @@ v2raypro：<a href="https://control.v2raypro.xyz/aff.php?aff=3&gid=5" target="_b
 11. 东方网络：<a href="https://touhou.io/" target="_blank">https://touhou.io/</a>   
 12. Poro专业版：<a href="http://poro.vip/auth/login" target="_blank">http://poro.vip/auth/login</a>    
 13. MENGDI-SS：<a href="https://mdss.cloud/" target="_blank">https://mdss.cloud</a>   
-14. ~~凿壁借光SSR：<a href="#" target="_blank">http://rss.superssr.me/</a>｛失联了，找不到了｝~~  
+14. 梦绘之旅：<a href="#" target="_blank">https://ssrvpn.cn</a>｛国内打不开，请挂代理｝  
 99. 酸奶：<a href="https://www.suannai.ml/" target="_blank">https://www.suannai.ml/</a>｛本是免费，现在收费了！管理态度恶劣不爱用！｝  
 
 ---  
