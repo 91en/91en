@@ -35,7 +35,7 @@ v2raypro：<a href="https://control.v2ray-pro.xyz/aff.php?aff=3&gid=5" target="_
 8. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
 9. 樱云：<a href="https://xn--9kq568d.ws/" target="_blank">https://xn--9kq568d.ws/</a>  
 10. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
-11. 东方网络：<a href="https://touhou.io/" target="_blank">https://touhou.io/</a>   
+11. 东方网络：<a href="https://touhou.io/" target="_blank">https://touhou.io/</a>｛国内打不开，请挂代理｝  
 12. Poro专业版：<a href="https://poro.im/auth/login" target="_blank">https://poro.im/auth/login</a>    
 13. MENGDI-SS：<a href="https://mdss.cn2.cloud/" target="_blank">https://mdss.cn2.cloud/</a>   
 14. 梦绘之旅：<a href="https://ssrvpn.cn/" target="_blank">https://ssrvpn.cn/</a>｛国内打不开，请挂代理｝  
