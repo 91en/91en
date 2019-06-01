@@ -13,7 +13,7 @@
 ### v2ray(收费) 
 ---
 纯v2ray推荐：  
-v2raypro：<a href="https://control.v2raypro.xyz/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">http://v2ray-pro.xyz/</span></a>  
+v2raypro：<a href="https://control.v2ray-pro.xyz/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">http://v2ray-pro.xyz/</span></a>  
 - 本人长期使用，线路稳速度快，SVIP线路多！
 - 纯v2ray线路，有权限限制，目的是防止攻击！  
 - <a href="https://control.v2raypro.xyz/index.php/announcements/124/2or24.html" target="_blank">用户节点权限说明</a>   
