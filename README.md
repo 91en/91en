@@ -27,14 +27,14 @@ v2raypro：<a href="https://control.v2ray.life/aff.php?aff=3&gid=5" target="_bla
 > <h3>收费：</h3>     
 1. 辉耀网络：<a href="https://huiyaossr.com/auth/register?code=F36M" target="_blank">https://huiyaossr.com/</a>    
 2. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
-3. codage：<a href="http://yuntu.ca/" target="_blank">http://yuntu.ca/</a>｛和云图小镇合并了｝    
+3. codage：<a href="https://www.yuntu.ca/" target="_blank">https://www.yuntu.ca/</a>｛和云图小镇合并了｝    
 4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
-5. 渡口：<a href="https://dukou.co/" target="_blank">https://dukou.co/</a>   
+5. 渡口：<a href="https://dukou.club/" target="_blank">https://dukou.club/</a> 备用：<a href="https://dukou.life/" target="_blank">https://dukou.life/</a>   
 6. 良辰云：<a href="https://liangchenyun.io/" target="_blank">https://liangchenyun.io/</a>   
-7. cordcloud：<a href="https://www.cordcloud.co/" target="_blank">https://www.cordcloud.co/</a> 备用：<a href="https://www.cordcloud.online/" target="_blank">https://www.cordcloud.online/</a>  
-8. Frozensocks：<a href="https://fzss.org/" target="_blank">https://fzss.org/</a> 备用：<a href="https://fzss.top/" target="_blank">https://fzss.top/</a>  
+7. cordcloud：<a href="http://www.cordcloud.fun/" target="_blank">http://www.cordcloud.fun/</a>  
+8. Frozensocks：<a href="https://fzss.gq/" target="_blank">https://fzss.gq/</a>  
 9. 樱云：<a href="https://xn--9kq568d.ws/" target="_blank">https://xn--9kq568d.ws/</a>  
-10. 走火入膜：<a href="https://xn--m80a.club/" target="_blank">https://xn--m80a.club/</a>    
+10. 走火入膜：<a href="https://xn--m80a.top/" target="_blank">https://xn--m80a.top/</a>    
 11. 东方网络：<a href="https://touhou.io/" target="_blank">https://touhou.io/</a>｛国内打不开，请挂代理｝  
 12. Poro专业版：<a href="https://poro.im/auth/login" target="_blank">https://poro.im/auth/login</a>    
 13. MENGDI-SS：<a href="https://tounima.me/" target="_blank">https://tounima.me/</a> 备用：<a href="https://jiba.world/" target="_blank">https://jiba.world/</a> & <a href="https://nmsl.ws/" target="_blank">https://nmsl.ws/</a>  
