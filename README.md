@@ -25,7 +25,7 @@ v2raypro：<a href="https://control.v2ray.life/aff.php?aff=3&gid=5" target="_bla
 
 ---
 > <h3>收费：</h3>     
-1. 辉耀网络：<a href="https://huiyaossr.com/auth/register?code=F36M" target="_blank">https://huiyaossr.com/</a>    
+1. 辉耀网络：<a href="https://hywl.me/" target="_blank">https://hywl.me/</a>    
 2. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛注册需要邀请码请到<a href="https://t.me/jsqpro" target="_blank">Telegram官方群获取</a>｝  
 3. codage：<a href="https://www.yuntu.ca/" target="_blank">https://www.yuntu.ca/</a>｛和云图小镇合并了｝    
 4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
@@ -36,7 +36,7 @@ v2raypro：<a href="https://control.v2ray.life/aff.php?aff=3&gid=5" target="_bla
 9. 樱云：<a href="https://xn--9kq568d.ws/" target="_blank">https://xn--9kq568d.ws/</a>  
 10. 走火入膜：<a href="https://xn--m80a.top/" target="_blank">https://xn--m80a.top/</a>    
 11. 东方网络：<a href="https://touhou.io/" target="_blank">https://touhou.io/</a>｛国内打不开，请挂代理｝  
-12. Poro专业版：<a href="https://poro.im/auth/login" target="_blank">https://poro.im/auth/login</a>    
+12. Poro专业版：<a href="http://www.poro.ro/auth/login" target="_blank">http://www.poro.ro/auth/login</a> 备用：<a href="http://poro.ro/auth/login" target="_blank">http://poro.ro/auth/login</a>  
 13. MENGDI-SS：<a href="https://jiba.world/" target="_blank">https://jiba.world/</a> 备用：<a href="https://nmsl.ws/" target="_blank">https://nmsl.ws/</a>  
 14. 梦绘之旅：<a href="https://ssrvpn.cn/" target="_blank">https://ssrvpn.cn/</a>｛国内打不开，请挂代理｝  
 99. 酸奶：<a href="https://www.suannai.tk/" target="_blank">https://www.suannai.tk/</a>｛本是免费，现在收费了！｝  
