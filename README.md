@@ -6,7 +6,7 @@
 - 最后，请勿分享，宣传！  
 
 ---
-#### 74vip网站导航（突然发现收藏和搭建的网站太多，索性弄了个导航）
+#### 74vip网站导航
 <a href="http://74vip.top/" target="_blank">点此跳转→<img src="https://s2.ax1x.com/2019/04/12/AbMkon.png" alt="AbMkon.png" border="0" /></a>  
 
 ---
