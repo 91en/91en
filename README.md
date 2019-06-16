@@ -29,27 +29,27 @@
 ### SSR
 ---
 > <h3>收费：</h3>     
-1. 辉耀网络：<a href="https://hywl.me/" target="_blank">https://hywl.me/</a>｛防失联：<a href="https://t.me/huiyaossr" target="_blank">Telegram群租</a>｝ 
+1. 辉耀网络：<a href="https://hywl.me/" target="_blank">https://hywl.me/</a>｛防失联：<a href="https://t.me/huiyaossr" target="_blank">Telegram群租</a>｝  
 2. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛需绑定机器人入群<a href="http://t.cn/AiNVEzXT" target="_blank">"Telegram-使用教程"</a>｝  
 3. codage：<a href="https://www.yuntu.ca/" target="_blank">https://www.yuntu.ca/</a>｛和云图小镇合并了｝    
-4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
+4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>｛防失联：<a href="https://t.me/Yuntu_official" target="_blank">Telegram群租</a>｝  
 5. 渡口：<a href="https://dukou.club/" target="_blank">https://dukou.club/</a> 备用：<a href="https://dukou.life/" target="_blank">https://dukou.life/</a>   
 6. 良辰云：<a href="https://liangchenyun.io/" target="_blank">https://liangchenyun.io/</a>   
 7. cordcloud：<a href="http://www.cordcloud.fun/" target="_blank">http://www.cordcloud.fun/</a>  
-8. Frozensocks：<a href="https://fzss.gq/" target="_blank">https://fzss.gq/</a>  
-9. 樱云：<a href="https://xn--9kq568d.ws/" target="_blank">https://xn--9kq568d.ws/</a>  
+8. Frozensocks：<a href="https://fzss.gq/" target="_blank">https://fzss.gq/</a>｛防失联：<a href="https://t.me/Frozensocks" target="_blank">Telegram群租</a>｝  
+9. 樱云：<a href="https://xn--9kq568d.ws/" target="_blank">https://xn--9kq568d.ws/</a>｛防失联：<a href="https://t.me/sakura_cloud" target="_blank">Telegram群租</a>｝  
 10. 走火入膜：<a href="https://xn--m80a.top/" target="_blank">https://xn--m80a.top/</a>    
 11. 东方网络：<a href="https://touhou.io/" target="_blank">https://touhou.io/</a>｛国内打不开，请挂代理｝  
 12. Poro专业版：<a href="http://www.poro.ro/auth/login" target="_blank">http://www.poro.ro/auth/login</a> 备用：<a href="http://poro.ro/auth/login" target="_blank">http://poro.ro/auth/login</a>  
-13. MENGDI-SS：<a href="https://jiba.world/" target="_blank">https://jiba.world/</a> 备用：<a href="https://nmsl.ws/" target="_blank">https://nmsl.ws/</a>  
-14. 梦绘之旅：<a href="https://ssrvpn.cn/" target="_blank">https://ssrvpn.cn/</a>｛国内打不开，请挂代理｝  
-99. 酸奶：<a href="https://www.suannai.tk/" target="_blank">https://www.suannai.tk/</a>｛本是免费，现在收费了！｝  
+13. MENGDI-SS：<a href="https://jiba.world/" target="_blank">https://jiba.world/</a> 备用：<a href="https://nmsl.ws/" target="_blank">https://nmsl.ws/</a>｛防失联：<a href="https://t.me/MdCloud" target="_blank">Telegram群租</a>｝  
+14. 梦绘之旅：<a href="https://ssrvpn.cn/" target="_blank">https://ssrvpn.cn/</a>｛国内打不开，请挂代理｛防失联：<a href="https://t.me/joinchat/LM3Mm061YantoLHzgOs41Q" target="_blank">Telegram群租</a>｝｝  
+99. 酸奶：<a href="https://www.suannai.tk/" target="_blank">https://www.suannai.tk/</a>｛防失联：<a href="https://t.me/ssruSSR" target="_blank">Telegram群租</a>｝  
 
 ---  
 
 > <h3>免费：</h3>    
-1. 免费EDU学术引擎：<a href="https://xsyq.wangzicloud.com/" target="_blank"><span style="color:#ed1941;">https://xsyq.wangzicloud.com/</span></a>｛需要邀请码可以到<a href="http://t.me/joinchat/F6lKrUMKir5N1xh-Bi3jBw" target="_blank">Telegram群获取</a>｝ 
-2. ssrshare：<a href="https://www.ssrtool.com/tool/free_ssr" target="_blank">https://www.ssrtool.com/tool/free_ssr</a>｛官方论坛：<a href="https://www.ssrshare.com" target="_blank">https://www.ssrshare.com</a>｛需翻墙,自行添加黑白名单｝｝   
+1. 免费EDU学术引擎：<a href="https://xsyq.wangzicloud.com/" target="_blank"><span style="color:#ed1941;">https://xsyq.wangzicloud.com/</span></a>｛需要邀请码可以到<a href="http://t.me/joinchat/F6lKrUMKir5N1xh-Bi3jBw" target="_blank">Telegram群获取</a>｝  
+2. ssrshare：<a href="https://www.ssrtool.com/tool/free_ssr" target="_blank">https://www.ssrtool.com/tool/free_ssr</a>｛官方论坛：<a href="https://www.ssrshare.com" target="_blank">https://www.ssrshare.com</a>｛需翻墙,自行添加黑白名单｝｛防失联：<a href="https://t.me/joinchat/HHeAr1ELdNEKXdOhr1yXkw" target="_blank">Telegram群租</a>｝｝  
 3. ishadowx：<a href="https://free.ishadowx.org/" target="_blank">https://free.ishadowx.org/</a> 备用：<a href="http://isx.yt" target="_blank">isx.yt</a> & <a href="http://dwz.pm/x" target="_blank">dwz.pm/x</a>｛之前挂了找回组织｝    
 4. Poro免费版：<a href="http://poro.cz/auth/login/" target="_blank">http://poro.cz/auth/login</a>｛导航网址：<a href="http://poro.icu/" target="_blank">http://poro.icu/</a>｝  
 
