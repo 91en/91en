@@ -12,17 +12,21 @@
 ---
 ### v2ray(收费) 
 ---
-纯v2ray推荐：  
-v2raypro：<a href="https://control.v2ray.life/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">https://control.v2ray.life/</span></a>  
+1. v2raypro：<a href="https://control.v2ray.life/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">https://control.v2ray.life/</span></a>  
 - 本人长期使用，线路稳速度快，SVIP线路多！
 - 纯v2ray线路，有权限限制，目的是防止攻击！  
 - <a href="https://control.v2ray.life/index.php/announcements/124/2or24.html" target="_blank">用户节点权限说明</a>   
 - windows/mac平台有定制版客户端！  
 - 支持订阅！  
 
----
-1. LostCloud：<a href="https://lostcloud.cc/" target="_blank">https://lostcloud.cc/</a> 备用：<a href="https://lostcloud.cf" target="_blank">https://lostcloud.cf</a>｛chrome全局代理才能打开｝  
+2. Vetoo：<a href="https://moncc.net/aff.php?aff=415" target="_blank"><span style="color:#ed1941;">https://moncc.net/affiliates.php</span></a>  
+- 直接购买流量，约100G/15元，不限时间  
+- 适用于小流量用户  
 
+3. LostCloud：<a href="https://lostcloud.cc/" target="_blank">https://lostcloud.cc/</a> 备用：<a href="https://lostcloud.cf" target="_blank">https://lostcloud.cf</a>｛chrome全局代理才能打开｝  
+
+---
+### SSR
 ---
 > <h3>收费：</h3>     
 1. 辉耀网络：<a href="https://hywl.me/" target="_blank">https://hywl.me/</a>    
@@ -50,7 +54,7 @@ v2raypro：<a href="https://control.v2ray.life/aff.php?aff=3&gid=5" target="_bla
 4. Poro免费版：<a href="http://poro.cz/auth/login/" target="_blank">http://poro.cz/auth/login</a>｛导航网址：<a href="http://poro.icu/" target="_blank">http://poro.icu/</a>｝  
 
 ---
-> <h3>免费Telegram群</h3>  
+> <h3>Telegram群组</h3>  
 1. <a href="https://t.me/SSRlist" target="_blank">SSR节点免费发放</a>  
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
 
