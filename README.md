@@ -30,7 +30,7 @@
 ---
 > <h3>收费：</h3>     
 1. 辉耀网络：<a href="https://hywl.me/" target="_blank">https://hywl.me/</a>｛防失联：<a href="https://t.me/huiyaossr" target="_blank">Telegram群租</a>｝ 
-2. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛需绑定机器人入群<a href="http://t.cn/AiNVEzXT" target="_blank"><Telegram-使用教程></a>｝  
+2. MySSR：<a href="https://jsqpro.co/" target="_blank">https://jsqpro.co/</a>｛需绑定机器人入群<a href="http://t.cn/AiNVEzXT" target="_blank">"Telegram-使用教程"</a>｝  
 3. codage：<a href="https://www.yuntu.ca/" target="_blank">https://www.yuntu.ca/</a>｛和云图小镇合并了｝    
 4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>     
 5. 渡口：<a href="https://dukou.club/" target="_blank">https://dukou.club/</a> 备用：<a href="https://dukou.life/" target="_blank">https://dukou.life/</a>   
