@@ -6,10 +6,6 @@
 - 最后，请勿分享，宣传！  
 
 ---
-#### 74vip网站导航
-<a href="http://74vip.top/" target="_blank">点此跳转→<img src="https://s2.ax1x.com/2019/04/12/AbMkon.png" alt="AbMkon.png" border="0" /></a>  
-
----
 ### v2ray(收费) 
 ---
 1. v2raypro：<a href="https://control.v2ray.life/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">https://control.v2ray.life/</span></a>  
