@@ -1,11 +1,11 @@
-// ==UserScript==
-// @name              74vip 视频解析
-// @name:en           74vip Videos
-// @namespace         https://www.91ost.top/
-// @version           1.5
+https://v.74vip.top/?v=// ==UserScript==
+// @name              74vip_VIP 视频解析
+// @name:en           74vip_VIP Videos
+// @namespace         https://74vip.top/
+// @version           1.6
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @description:en    Support for custom interfaces, support for inbound and outbound resolution
-// @author            mioplus
+// @author            74vip
 // @require           https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js
 // @require           https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
 // @match             *://v.qq.com/x/cover/*
