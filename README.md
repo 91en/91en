@@ -37,7 +37,7 @@
 6. 良辰云：<a href="https://liangchenyun.io/" target="_blank">https://liangchenyun.io/</a>   
 7. cordcloud：<a href="http://www.cordcloud.fun/" target="_blank">http://www.cordcloud.fun/</a>  
 8. Frozensocks：<a href="https://fzss.gq/" target="_blank">https://fzss.gq/</a>｛防失联：<a href="https://t.me/Frozensocks" target="_blank">Telegram群租</a>｝  
-9. 樱云：<a href="https://xn--9kq568d.ws/" target="_blank">https://xn--9kq568d.ws/</a>｛防失联：<a href="https://t.me/sakura_cloud" target="_blank">Telegram群租</a>｝  
+9. 樱云：<a href="https://樱云.net" target="_blank"https://樱云.net</a>｛防失联：<a href="https://t.me/sakura_cloud" target="_blank">Telegram群租</a>｝  
 10. 走火入膜：<a href="https://xn--m80a.top/" target="_blank">https://xn--m80a.top/</a>    
 11. 东方网络：<a href="https://touhou.io/" target="_blank">https://touhou.io/</a>｛国内打不开，请挂代理｝  
 12. Poro专业版：<a href="http://www.poro.ro/auth/login" target="_blank">http://www.poro.ro/auth/login</a> 备用：<a href="http://poro.ro/auth/login" target="_blank">http://poro.ro/auth/login</a>  
