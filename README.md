@@ -8,7 +8,7 @@
 ---
 ### v2ray(收费) 
 ---
-1. v2raypro：<a href="https://control.v2ray.life/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">https://control.v2ray.life/</span></a>  
+1. v2raypro：<a href="https://my.v2ray.life/aff.php?aff=3&gid=5" target="_blank"><span style="color:#ed1941;">https://my.v2ray.life/</span></a>  
 - 本人长期使用，线路稳速度快，SVIP线路多！
 - 纯v2ray线路，有权限限制，目的是防止攻击！  
 - <a href="https://control.v2ray.life/index.php/announcements/124/2or24.html" target="_blank">用户节点权限说明</a>   
@@ -30,7 +30,7 @@
 3. codage：<a href="https://www.yuntu.ca/" target="_blank">https://www.yuntu.ca/</a>｛和云图小镇合并了｝    
 4. 云图小镇：<a href="https://town.yuntu.ca/" target="_blank">https://town.yuntu.ca/</a>｛防失联：<a href="https://t.me/Yuntu_official" target="_blank">Telegram群租</a>｝  
 5. 渡口：<a href="https://dukou.club/" target="_blank">https://dukou.club/</a> 备用：<a href="https://dukou.life/" target="_blank">https://dukou.life/</a>   
-6. 良辰云：<a href="https://liangchenyun.io/" target="_blank">https://liangchenyun.io/</a>   
+6. 良辰云：<a href="https://saocaozuo.me/" target="_blank">https://saocaozuo.me/</a>   
 7. cordcloud：<a href="http://www.cordcloud.fun/" target="_blank">http://www.cordcloud.fun/</a>  
 8. Frozensocks：<a href="https://fzss.gq/" target="_blank">https://fzss.gq/</a>｛防失联：<a href="https://t.me/Frozensocks" target="_blank">Telegram群租</a>｝  
 9. 樱云：<a href="https://樱云.net" target="_blank">https://樱云.net</a>｛防失联：<a href="https://t.me/sakura_cloud" target="_blank">Telegram群租</a>｝  
