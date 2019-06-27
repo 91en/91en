@@ -19,7 +19,7 @@
 - windows/mac平台有定制版客户端！  
 - 支持订阅！  
 
-2. Vetoo：<a href="https://moncc.net/aff.php?aff=415" target="_blank"><span style="color:#ed1941;">https://moncc.net/affiliates.php</span></a>  
+2. Vetoo：<a href="https://dally.me/aff.php?aff=415" target="_blank"><span style="color:#ed1941;">https://dally.me/</span></a>  
 - 直接购买流量，约100G/15元，不限时间  
 - 适用于小流量用户  
 
