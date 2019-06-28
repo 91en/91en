@@ -23,7 +23,7 @@
 ---
 > <h3>收费：</h3>     
 1. 辉耀网络：｛<a href="https://t.me/huiyaossr" target="_blank">Telegram群</a>｝  
-2. MySSR：｛<a href="http://t.cn/AiNVEzXT" target="_blank">"Telegram-使用教程"</a>｝    
+2. MySSR：｛<a href="http://t.cn/AiNVEzXT" target="_blank">Telegram-使用教程</a>｝    
 3. 云图小镇：｛<a href="https://t.me/Yuntu_official" target="_blank">Telegram群</a>｝     
 4. 良辰云：｛<a href="https://t.me/liangchenyunss" target="_blank">Telegram群</a>｝
 5. 东方网络：｛<a href="https://t.me/joinchat/F2DfoU8y1aPT8xdTFJxNug" target="_blank">Telegram群</a>｝  
