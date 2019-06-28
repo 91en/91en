@@ -1,3 +1,27 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>加密</title> 
+<script language = JavaScript>
+function password() {
+	var testV = 1;
+	var pass1 = prompt('请输入密码:', '');
+	while (testV < 3) {
+		if (!pass1) history.go(-1);
+		if (pass1 == "123456") {
+			alert('密码正确!');
+			break;
+		}
+		testV += -1;
+		var pass1 = prompt('密码错误!请重新输入:');
+	}
+	if (pass1 != "password" & testV == 3) history.go(-1);
+	return " ";
+}
+document.write(password());
+</script>
+</head>
+<body>
 ## 纯收集、备用、防失联！须知：   
 - 1. 本站不提供任何邀请码，更不承担任何法律责任！       
 - 2. 纯收集、备用，一切商业用途与本人无关！
@@ -46,3 +70,5 @@
 2. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
 
 ---
+</body>
+</html>
