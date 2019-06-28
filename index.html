@@ -20,19 +20,9 @@ function password() {
 }
 document.write(password());
 </script>
-<link href="//cdn.bootcss.com/skeleton/2.0.4/skeleton.css" rel="stylesheet">
-<script src="//cdn.bootcss.com/jquery/3.0.0-alpha1/jquery.js"></script>
-<script src="//cdn.bootcss.com/markdown-it/4.4.0/markdown-it.min.js"></script>
-<script>
-  window.searchMap = location.search.substr(1).split('&').reduce(function(r, it) {
-    var them = it.split('='); r[them[0]] = them[1]; return r;
-  }, {});
-  $.ajaxSetup({async: false});
-</script>
 </head>
 <body>
 <!-- 此处填写显示信息 -->
-<div class="markdown-html"><script>$.get(searchMap.md, function(text) { document.write(markdownit().render(text)); });</script></div>
-<script language='javascript'>document.location = 'http://https://91en.github.io/91en/markdown.html?md=https://github.com/91en/91en/blob/master/README.md'</script>
+<script language='javascript'>document.location = 'https://91en.github.io/91en/markdown.html?md=https://github.com/91en/91en/blob/master/README.md'</script>
 </body>
 </html>
