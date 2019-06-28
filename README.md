@@ -38,9 +38,9 @@
 
 > <h3>免费：Telegram群组</h3>    
 1. <a href="http://t.me/joinchat/F6lKrUMKir5N1xh-Bi3jBw" target="_blank">[ A ]</a> <!-- 免费EDU学术引擎 -->   
-2. <a href="https://t.me/SSRlist" target="_blank">SSR节点免费发放</a>  
-3. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
-4. ssrshare：<a href="https://www.ssrshare.com/" target="_blank">https://www.ssrtool.com/</a>｛打不开请挂代理 <a href="https://t.me/joinchat/HHeAr1ELdNEKXdOhr1yXkw" target="_blank">[ A ]</a>｝  
+2. <a href="https://t.me/joinchat/HHeAr1ELdNEKXdOhr1yXkw" target="_blank">[ B ]</a> <!-- ssrshare -->  
+3. <a href="https://t.me/SSRlist" target="_blank">SSR节点免费发放</a>  
+4. <a href="https://t.me/vpnko" target="_blank">翻墙线路分享</a>   
 5. ishadowx：<a href="https://free.ishadowx.org/" target="_blank">https://free.ishadowx.org/</a> 备用：<a href="http://isx.yt" target="_blank">isx.yt</a> & <a href="http://dwz.pm/x" target="_blank">dwz.pm/x</a>     
 
 ---
