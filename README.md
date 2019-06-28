@@ -26,11 +26,12 @@
 2. MySSR：｛<a href="http://t.cn/AiNVEzXT" target="_blank">"Telegram-使用教程"</a>｝    
 3. 云图小镇：｛<a href="https://t.me/Yuntu_official" target="_blank">Telegram群</a>｝     
 4. 良辰云：{<a href="https://t.me/liangchenyunss" target="_blank">Telegram群</a>｝
-5. Frozensocks：｛<a href="https://t.me/Frozensocks" target="_blank">Telegram群</a>｝  
-6. 樱云：｛<a href="https://t.me/sakura_cloud" target="_blank">Telegram群</a>｝  
-7. MENGDI-SS：｛<a href="https://t.me/MdCloud" target="_blank">Telegram群</a>｝  
-8. WESTCLOUD(梦绘之旅)：｛<a href="https://t.me/joinchat/LM3Mm061YantoLHzgOs41Q" target="_blank">Telegram群</a>｝  
-9. 酸奶：｛<a href="https://t.me/ssruSSR" target="_blank">Telegram群</a>｝  
+5. 东方网络：{<a href="https://t.me/joinchat/F2DfoU8y1aPT8xdTFJxNug" target="_blank">Telegram群</a>｝  
+6. Frozensocks：｛<a href="https://t.me/Frozensocks" target="_blank">Telegram群</a>｝  
+7. 樱云：｛<a href="https://t.me/sakura_cloud" target="_blank">Telegram群</a>｝  
+8. MENGDI-SS：｛<a href="https://t.me/MdCloud" target="_blank">Telegram群</a>｝  
+9. WESTCLOUD(梦绘之旅)：｛<a href="https://t.me/joinchat/LM3Mm061YantoLHzgOs41Q" target="_blank">Telegram群</a>｝  
+10. 酸奶：｛<a href="https://t.me/ssruSSR" target="_blank">Telegram群</a>｝  
 
 ---  
 
