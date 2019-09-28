@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name              74vip_VIP 工具
+// @name              74vip_VIP tool
 // @name:en           74vip_VIP tool
 // @namespace         https://74vip.top/
 // @version           1.7
@@ -19,11 +19,11 @@
 // @match             *://www.le.com/ptv/vplay/*
 // @match             *://video.tudou.com/v/*
 // @match             *://v.pptv.com/show/*
-// @include		      https://pan.baidu.com/share/init?surl=*
-// @include	       	  https://pan.baidu.com/wap/init?surl=*
-// @include		      https://pan.baidu.com/share/init?shareid=*
-// @include		      https://pan.baidu.com/wap/init?shareid=*
-// @include		      https://pan.baidu.com/s/*
+// @match		      https://pan.baidu.com/share/init?surl=*
+// @match       	  https://pan.baidu.com/wap/init?surl=*
+// @match		      https://pan.baidu.com/share/init?shareid=*
+// @match		      https://pan.baidu.com/wap/init?shareid=*
+// @match		      https://pan.baidu.com/s/*
 // @grant             unsafeWindow
 // @grant             GM_openInTab
 // @grant             GM.openInTab
