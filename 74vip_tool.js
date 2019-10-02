@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name              74vip_VIP tool
-// @name:en           74vip_VIP tool
+// @name              74vip_tool
+// @name:en           74vip_tool
 // @namespace         https://74vip.top/
 // @version           1.7
 // @charset		      UTF-8
