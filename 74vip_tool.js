@@ -2,7 +2,7 @@
 // @name              74vip_tool
 // @name:en           74vip_tool
 // @namespace         https://74vip.top/
-// @version           1.7
+// @version           1.8
 // @charset		      UTF-8
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @description	      度盘万能钥匙，云盘万能钥匙扩展改成 GM 脚本
@@ -42,12 +42,12 @@
     var log_count = 1;
     var parseInterfaceList = [];
     var userInterfaceList = [];
-    var originalInterfaceList = [{"name":"高科技","type":"站内","url":"https://jx.dy-jx.com/?url="},
+    var originalInterfaceList = [{"name":"思古解析","type":"站内","url":"https://api.sigujx.com/?url="},
                                  {"name":"紫云","type":"站内","url":"https://api.smq1.com/?url="},
 								 {"name":"超清解析","type":"站内","url":"https://cdn.yangju.vip/k/?url="},
 								 {"name":"927","type":"站内","url":"https://api.927.la/vip/?url="},
                                  {"name":"爸比云","type":"站内","url":"https://jx.1ff1.cn/?url="},
-                                 {"name":"74vip","type":"站内","url":"http://v.74vip.top/?v="},
+                                 {"name":"高科技","type":"站内","url":"https://jx.dy-jx.cn/?url="},
 
 								 {"name":"大亨","type":"站外","url":"http://jx.cesms.cn/?url="},
 								 {"name":"WoCao","type":"站外","url":"http://www.wocao.xyz/index.php?url="},
