@@ -408,9 +408,9 @@
             setInterval(()=>{
                 $(".yk-dmtxtbox").css("width","300px");
             },1000);
-            GMaddStyle(`.fn-youku-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}.play-fn{line-height:40px;}`);
+            GMaddStyle(`.fn-youku-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
             var bpmodule_playpage_paction = $(".play-fn");
-            var youku_jiexi = $("<li class='fn-download fn-youku-jiexi'><span class='fn-title'><i class='fn-icon'></i></span><span class='text fn-youku-jiexi-text'>解析</span>" +
+            var youku_jiexi = $("<li class='play-fn-li fn-youku-jiexi'></i><span class='text fn-youku-jiexi-text'>解析</span>" +
                                 "<div class='fn-panel' style='background-color:#2e2e2e;min-width:100px;width:auto;border:1px solid gray;'>" + jiexiDIV + "</div></li>");
             bpmodule_playpage_paction.append(youku_jiexi);
             $(".fn-youku-jiexi-text").click(()=>{
@@ -418,9 +418,9 @@
                     var ykPlayer = $("#ykPlayer");
                     ykPlayer.empty();
                     ykPlayer.append(videoPlayer);
-                    $("#module_basic_player").css("height","100%");
+                    $("#module_basic_player").css("width","100%");
                     var player = $("#player");
-                    player.css("height","100%");
+                    player.css("width","100%");
                     player.empty();
                     player.append(videoPlayer);
                 }
@@ -440,9 +440,9 @@
                             var ykPlayer = $("#ykPlayer");
                             ykPlayer.empty();
                             ykPlayer.append(videoPlayer);
-                            $("#module_basic_player").css("height","100%");
+                            $("#module_basic_player").css("width","100%");
                             var player = $("#player");
-                            player.css("height","100%");
+                            player.css("widtht","100%");
                             player.empty();
                             player.append(videoPlayer);
                         }
