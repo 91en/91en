@@ -2,7 +2,7 @@
 // @name              74vip_tool
 // @name:en           74vip_tool
 // @namespace         https://74vip.top/
-// @version           1.9
+// @version           2.0
 // @charset		      UTF-8
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @description	      度盘万能钥匙，云盘万能钥匙扩展改成 GM 脚本
@@ -11,7 +11,7 @@
 // @require           https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
 // @match             *://v.qq.com/x/cover/*
 // @match             *://v.qq.com/x/page/*
-// @match             *://www.iqiyi.com/v*
+// @match             *://www.iqiyi.com/*
 // @match             *://v.youku.com/v_show/*
 // @match             *://www.mgtv.com/b/*
 // @match             *://tv.sohu.com/v/*
@@ -47,11 +47,10 @@
 								 {"name":"超清解析","type":"站内","url":"https://cdn.yangju.vip/k/?url="},
                                  {"name":"爸比云","type":"站内","url":"https://api.8bjx.cn/?url="},
                                  {"name":"高科技","type":"站内","url":"https://jx.dy-jx.cn/?url="},
-                                 {"name":"74vip","type":"站内","url":"http://v.74vip.top/?url="},
+                                 {"name":"高速解析","type":"站内","url":"https://api.yatongle.com/?url="},
 
 								 {"name":"大亨","type":"站外","url":"http://jx.cesms.cn/?url="},
 								 {"name":"WoCao","type":"站外","url":"http://www.wocao.xyz/index.php?url="},
-								 {"name":"云播放","type":"站外","url":"https://cdn.yangju.vip/k/?url="},
 								 {"name":"618G","type":"站外","url":"http://jx.618g.com/?url="},
                                  {"name":"百域阁","type":"站外","url":"http://api.baiyug.vip/index.php?url="},
 								 {"name":"黑云","type":"站外","url":"http://jx.daheiyun.com/?url="}];
@@ -207,7 +206,7 @@
         var videoPlayer = $("<div id='iframe-div' style='width:100%;height:100%;z-index:2147483647;'><iframe id='iframe-player' frameborder='0' allowfullscreen='true' width='100%' height='100%'></iframe></div>");
         if (location.href.indexOf("www.iqiyi.com") > -1){
             GMaddStyle(`.fn-iqiyi-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
-            var iqiyi_jiexi = $("<div class='func-item'><span class='func-inner fn-iqiyi-jiexi-text' style='line-height:40px;'><span class='func-name'>解析</span></span>" +
+            var iqiyi_jiexi = $("<div class='func-item'><span class='func-inner fn-iqiyi-jiexi-text' style='line-height:25px;'><span class='func-name'>解析</span></span>" +
                                 "<div class='qy-func-jiexi-pop fn-iqiyi-jiexi' style='display:none;position:absolute;left:-50px;text-align:center;z-index:2147483647;'><div class='qy-popup-box' style='background-color:#2e2e2e;border:1px solid gray;'>" +
                                 jiexiDIV + "</div></div></div>");
             var addButtonLoop = setInterval(()=>{
@@ -743,11 +742,6 @@ var hash = location.hash && /^#([a-zA-Z0-9]{4})$/.test(location.hash) && RegExp.
 	label = document.querySelector('.pickpw dt, .access-box label[for=accessCode]'),
 	shareID = (location.href.match(/\/init\?(?:surl|shareid)=((?:\w|-)+)/) || location.href.match(/\/s\/1((?:\w|-)+)/))[1],
 	history = shareHistory(shareID);
-
-if (location.href.indexOf('baidu.com/s/') > 0) {//v5
-	var url = location.href.replace('baidu.com', 'baiduwp.com').match(/^([^#]+)/)[1] + (location.href.indexOf('?') == -1 ? '?' : '&') + 'pwd=' + history;
-	$('<a class="g-button" href="' + url + '" title="转到 Pandownload 网页版"><span class="g-button-right"><em class="icon icon-picpre-download" style="color:#d60;"><font color="#090"></em><span class="text" style="width: auto;"><font color="#090">Pandownload 网页版</font></span></span></a>').insertBefore('.x-button-box a.g-button[data-button-id=b3]');
-}
 
 if (!input || !btn) return;
 //if (location.hash && /^#([a-zA-Z0-9]{4})$/.test(location.hash)) return;//v2
