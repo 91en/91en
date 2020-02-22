@@ -504,8 +504,8 @@
         }else if(location.href.indexOf("tv.sohu.com") > -1){
             GMaddStyle(`.fn-sohu-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
             var vBox_right = $("#leftBar");
-            var sohu_jiexi = $("<div class='cfix vBox-tb'><a class='vBox vBox-play' style='padding-left:250px;color:#a2a2a3;line-height:20px;cursor:pointer;'>解析</a>"+
-                               "<div class='vCont fn-sohu-jiexi' style='background-color:#2e2e2e;border:1px solid gray;padding:0;width:auto;margin:30px 0 0 250px;line-height:25px;'>" + jiexiDIV + "</div></div>");
+            var sohu_jiexi = $("<div class='vBox vBox-play'><a class='vbtn' style='padding-left:250px;color:#a2a2a3;line-height:53px;cursor:pointer;'>解析</a>"+
+                               "<div class='vCont fn-sohu-jiexi' style='background-color:#2e2e2e;border:1px solid gray;padding:0;width:auto;margin:5px 0 0 100px;line-height:25px;'>" + jiexiDIV + "</div></div>");
             vBox_right.prepend(sohu_jiexi);
             sohu_jiexi.click(()=>{
                 $(".fn-sohu-jiexi").toggle();
