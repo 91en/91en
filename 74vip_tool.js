@@ -742,7 +742,12 @@ var hash = location.hash && /^#([a-zA-Z0-9]{4})$/.test(location.hash) && RegExp.
 	label = document.querySelector('.pickpw dt, .access-box label[for=accessCode]'),
 	shareID = (location.href.match(/\/init\?(?:surl|shareid)=((?:\w|-)+)/) || location.href.match(/\/s\/1((?:\w|-)+)/))[1],
 	history = shareHistory(shareID);
-
+/* // 跳转 Pandownload网页版
+if (location.href.indexOf('baidu.com/s/') > 0) {//v5
+	var url = location.href.replace('baidu.com', 'baiduwp.com').match(/^([^#]+)/)[1] + (location.href.indexOf('?') == -1 ? '?' : '&') + 'pwd=' + history;
+	$('<a class="g-button" href="' + url + '" title="转到 Pandownload 网页版"><span class="g-button-right"><em class="icon icon-picpre-download" style="color:#d60;"><font color="#090"></em><span class="text" style="width: auto;"><font color="#090">Pandownload 网页版</font></span></span></a>').insertBefore('.x-button-box a.g-button[data-button-id=b3]');
+}*/
+// - end 跳转 Pandownload网页版
 if (!input || !btn) return;
 //if (location.hash && /^#([a-zA-Z0-9]{4})$/.test(location.hash)) return;//v2
 
