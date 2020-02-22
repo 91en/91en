@@ -14,7 +14,7 @@
 // @grant          GM.xmlHttpRequest
 // @connect        googlevideo.com
 // @connect        s.ytimg.com
-// @version        2.06
+// @version        2.12
 // ==/UserScript==
 
 /* This is based on YouTube HD Suite 3.4.1 */
@@ -68,9 +68,9 @@ if(typeof GM == "object" && GM.xmlHttpRequest && typeof GM_xmlhttpRequest == "un
 var SCRIPT_NAME = "YouTube Links";
 
 var relInfo = {
-  ver: 20600,
-  ts: 2019040200,
-  desc: "Update sig detection (sig-90)"
+  ver: 21200,
+  ts: 2020012900,
+  desc: "Update sig detection"
   };
 
 var SCRIPT_UPDATE_LINK = loc.protocol + "//greasyfork.org/scripts/5565-youtube-links-updater/code/YouTube Links Updater.user.js";
@@ -451,7 +451,7 @@ function getVideoName(s) {
     "vp9": "VP9"
     };
 
-  if(s.match(/\+codecs=\"([a-zA-Z0-9]+)/)) {
+  if(s.match(/;\s*\+?codecs=\"([a-zA-Z0-9]+)/)) {
     var str = RegExp.$1;
     if(spCodecs[str])
       return spCodecs[str];
@@ -671,6 +671,8 @@ decryptSig.fetchScript = function(scriptName, url) {
       /\.signature\s*=\s*(\w+)\(\w+\)/,
       /\.set\(\"signature\",([\w$]+)\(\w+\)\)/,
       /\/yt\.akamaized\.net\/\)\s*\|\|\s*\w+\.set\s*\(.*?\)\s*;\s*\w+\s*&&\s*\w+\.set\s*\(\s*\w+\s*,\s*(?:encodeURIComponent\s*\()?([\w$]+)\s*\(/,
+      /\b([a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)/,
+      /([a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)/,
       /;\s*\w+\s*&&\s*\w+\.set\(\w+\s*,\s*(?:encodeURIComponent\s*\()?([\w$]+)\s*\(/,
       /;\s*\w+\s*&&\s*\w+\.set\(\w+\s*,\s*\([^)]*\)\s*\(\s*([\w$]+)\s*\(/
       ], function(idx, regex) {
@@ -789,6 +791,18 @@ function deobfuscateVideoSig(scriptName, sig) {
 
 // =============================================================================
 
+function deobfuscateSigInObj(map, obj) {
+  if(obj.s == null || obj.sig != null)
+    return;
+
+  var sig = deobfuscateVideoSig(map.scriptName, obj.s);
+
+  if(sig != obj.s) {
+    obj.sig = sig;
+    delete obj.s;
+    }
+  }
+
 function parseStreamMap(map, value) {
   var fmtUrlList = [];
 
@@ -848,7 +862,7 @@ function parseAdaptiveStreamMap(map, value) {
     //logMsg(obj);
     //logMsg(map.videoId + ": " + obj.index + " " + obj.init + " " + obj.itag + " " + obj.size + " " + obj.bitrate + " " + obj.type);
 
-    if(obj.type.match(/^video\/mp4/) && !obj.type.match(/;\+codecs="av01\./))
+    if(obj.type.match(/^video\/mp4/) && !obj.type.match(/;\s*\+?codecs="av01\./))
       obj.effType = "video/x-m4v";
 
     if(obj.type.match(/^audio\//))
@@ -859,13 +873,7 @@ function parseAdaptiveStreamMap(map, value) {
     if(!map.adaptiveAR && obj.size.match(/^(\d+)x(\d+)/))
       map.adaptiveAR = +RegExp.$1 / +RegExp.$2;
 
-    if(obj.s != null && obj.sig == null) {
-      var sig = deobfuscateVideoSig(map.scriptName, obj.s);
-      if(sig != obj.s) {
-        obj.sig = sig;
-        delete obj.s;
-        }
-      }
+    deobfuscateSigInObj(map, obj);
 
     fmtUrlList.push(obj);
 
@@ -896,6 +904,48 @@ function parseFmtList(map, value) {
   //logMsg(map.fmtMap);
   }
 
+function parseNewFormatsMap(map, str) {
+  var list = JSON.parse(str.replace(/\\\//g, "/").replace(/\\"/g, "\"").replace(/\\\\/g, "\\"));
+
+  forEach(list, function(idx, elm) {
+    var obj = {
+      bitrate: elm.bitrate,
+      fps: elm.fps,
+      itag: elm.itag,
+      type: elm.mimeType,
+      url: elm.url
+      };
+
+    // Distinguish between AV1, M4V and MP4
+    if(elm.audioQuality == null && obj.type.match(/^video\/mp4/) && !obj.type.match(/;\s*\+?codecs="av01\./))
+      obj.effType = "video/x-m4v";
+
+    if(elm.contentLength != null)
+      obj.clen = +elm.contentLength;
+
+    if(obj.type.match(/^audio\//))
+      obj.size = "audio";
+    else
+      obj.size = elm.width + "x" + elm.height;
+
+    obj.quality = mapResToQuality(obj.size);
+
+    if(elm.cipher) {
+      forEach(elm.cipher.split("&"), function(idx, elm) {
+        var kv = elm.split("=");
+        obj[kv[0]] = decodeURIComponent(kv[1]);
+        });
+
+      deobfuscateSigInObj(map, obj);
+      }
+
+    map.fmtUrlList.push(obj);
+
+    if(map.fmtMap[obj.itag] == null)
+      map.fmtMap[obj.itag] = { res: cnvResName(obj.size) };
+    });
+  }
+
 function getVideoInfo(url, callback) {
   function getVideoNameByType(elm) {
     return getVideoName(elm.effType || elm.type);
@@ -917,7 +967,11 @@ function getVideoInfo(url, callback) {
     if(data.match(/"t":\s?"(.+?)"/))
       map.t = RegExp.$1;
 
-    if(data.match(/"video_id":\s?"(.+?)"/))
+    if(data.match(/"(?:video_id|videoId)":\s?"(.+?)"/))
+      map.videoId = RegExp.$1;
+    else if(data.match(/\\"videoId\\":\s?\\"(.+?)\\"/))
+      map.videoId = RegExp.$1;
+    else if(data.match(/'VIDEO_ID':\s?"(.+?)",/))
       map.videoId = RegExp.$1;
 
     if(!map.videoId) {
@@ -938,12 +992,19 @@ function getVideoInfo(url, callback) {
     if(map.title == null && data.match(/<meta\s+name="title"\s*content="(.+)"\s*>/))
       map.title = unescHtmlEntities(RegExp.$1);
 
+    var titleStream;
+
+    if(map.title == null && data.match(/"videoDetails":{([^}]*)}/))
+      titleStream = RegExp.$1;
+    else
+      titleStream = data;
+
     // Edge replaces & with \u0026
-    if(map.title == null && data.match(/[,{]"title":("[^"]+")[,}]/))
+    if(map.title == null && titleStream.match(/[,{]"title":("[^"]+")[,}]/))
       map.title = unescHtmlEntities(JSON.parse(RegExp.$1));
 
     // Edge fails the previous regex if \" exists
-    if(map.title == null && data.match(/[,{]"title":(".*?")[,}]"/))
+    if(map.title == null && titleStream.match(/[,{]"title":(".*?")[,}]"/))
       map.title = unescHtmlEntities(JSON.parse(RegExp.$1));
 
     if(data.match(/[,{]\\"isLiveContent\\":\s*true[,}]/))
@@ -951,18 +1012,32 @@ function getVideoInfo(url, callback) {
 
     map.fmtUrlList = [];
 
-    if(data.match(/[,{]"url_encoded_fmt_stream_map":\s?"([^"]+)"[,}]/))
+    var oldFmtFlag;
+
+    if(data.match(/[,{]"url_encoded_fmt_stream_map":\s?"([^"]+)"[,}]/)) {
       parseStreamMap(map, RegExp.$1);
+      oldFmtFlag = true;
+      }
 
     map.fmtMap = {};
 
-    if(data.match(/[,{]"adaptive_fmts":\s?"(.+?)"[,}]/))
+    if(data.match(/[,{]"adaptive_fmts":\s?"(.+?)"[,}]/)) {
       parseAdaptiveStreamMap(map, RegExp.$1);
+      oldFmtFlag = true;
+      }
 
     if(data.match(/[,{]"fmt_list":\s?"([^"]+)"[,}]/))
       parseFmtList(map, RegExp.$1);
 
+    if(!oldFmtFlag && data.match(/\\"formats\\":(\[{[^\]]*}\])[},]/))
+      parseNewFormatsMap(map, RegExp.$1);
+
+    if(!oldFmtFlag && data.match(/\\"adaptiveFormats\\":(\[{[^\]]*}\])[},]/))
+      parseNewFormatsMap(map, RegExp.$1);
+
     if(data.match(/[,{]"dashmpd":\s?"(.+?)"[,}]/))
+      map.dashmpd = decodeURIComponent(RegExp.$1.replace(/\\\//g, "/"));
+    else if(data.match(/[,{]\\"dashManifestUrl\\":\s?\\"(.+?)\\"[,}]/))
       map.dashmpd = decodeURIComponent(RegExp.$1.replace(/\\\//g, "/"));
 
     if(userConfig.filteredFormats.length > 0) {
@@ -1427,6 +1502,10 @@ Links.prototype.parseDashManifest = function(map, callback) {
         dashElm.len = +baseUrlDom[0].getAttribute("yt:contentLength");
         dashElm.url = baseUrlDom[0].textContent;
 
+        var segList = repElm.getElementsByTagName("SegmentList");
+        if(segList.length > 0)
+          dashElm.numSegments = segList[0].childNodes.length;
+
         dashList.push(dashElm);
         });
       });
@@ -1456,8 +1535,12 @@ Links.prototype.parseDashManifest = function(map, callback) {
           }
         });
 
-      if(foundIdx != null)
+      if(foundIdx != null) {
+        if(dashElm.numSegments != null)
+          map.fmtUrlList[foundIdx].numSegments = dashElm.numSegments;
+
         return;
+        }
 
       //logMsg(dashElm);
 
@@ -1481,7 +1564,8 @@ Links.prototype.parseDashManifest = function(map, callback) {
           quality: mapResToQuality(size),
           size: size,
           type: dashElm.mimeType + ";+codecs=\"" + dashElm.codecs + "\"",
-          url: dashElm.url
+          url: dashElm.url,
+          numSegments: dashElm.numSegments
           });
         }
       else if(dashElm.mimeType == "audio/mp4" && dashElm.audioSamplingRate >= 44100) {
@@ -1516,7 +1600,7 @@ Links.prototype.parseDashManifest = function(map, callback) {
 
   if(map.dashmpd.match(/\/s\/([a-zA-Z0-9.]+)\//)) {
     var sig = deobfuscateVideoSig(map.scriptName, RegExp.$1);
-    map.dashmpd = map.dashmpd.replace(/\/s\/[a-zA-Z0-9.]+\//, "/signature/" + sig + "/");
+    map.dashmpd = map.dashmpd.replace(/\/s\/[a-zA-Z0-9.]+\//, "/sig/" + sig + "/");
     }
 
   dom.crossAjax({
@@ -1592,7 +1676,7 @@ Links.prototype.genUrl = function(map, elm) {
   var url = elm.url + "&title=" + encodeSafeFname(map.title);
 
   if(elm.sig != null)
-    url += "&signature=" + elm.sig;
+    url += "&sig=" + elm.sig;
 
   return url;
   };
@@ -1691,7 +1775,7 @@ Links.prototype.emitLinks = function(map) {
       if(elm.filesize != null) {
         var filesize = elm.filesize;
 
-        if(map.isLive && filesize == 0)
+        if((map.isLive || (elm.numSegments || 1) > 1) && filesize == 0)
           filesize = -1;
 
         if(filesize >= 0) {
@@ -1704,6 +1788,8 @@ Links.prototype.emitLinks = function(map) {
             msg = "DRM";
           else if(elm.s != null)
             msg = "sig-" + elm.s.length;
+          else if(elm.numSegments > 1)
+            msg = "Frag";
           else if(map.isLive)
             msg = "Live";
           else
