@@ -2,7 +2,7 @@
 // @name              74vip_tool
 // @name:en           74vip_tool
 // @namespace         https://74vip.top/
-// @version           2.1
+// @version           2.0.2
 // @charset		      UTF-8
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @description	      度盘万能钥匙，云盘万能钥匙扩展改成 GM 脚本
@@ -201,7 +201,7 @@
         });
         parseInterfaceList = innerList.concat(outerList);
         var jiexiDIV = "<div style='display:flex;'><div style='width:180px;padding:10px 0;'><div style='text-align:center;color:#cccccc;line-height:20px;'>站内解析</div>" +
-            "<ul style='margin:0 10px;'>" + innerli + "<div style='clear:both;'></div></ul><div style='text-align:center;color:#cccccc;line-height:20px;'>站外解析</div>" +
+            "<ul style='margin:0 10px;'>" + innerli + "<div style='clear:both;'></div></ul></br><div style='text-align:center;color:#cccccc;line-height:20px;'>站外解析</div>" +
             "<ul style='margin:0 10px;'>" + outerli + "<div style='clear:both;'></div></ul></div><div style='margin:auto;'><img style='width:200px;' src='https://s2.ax1x.com/2020/02/21/3KZLQA.png'></div></div>";
         var videoPlayer = $("<div id='iframe-div' style='width:100%;height:100%;z-index:2147483647;'><iframe id='iframe-player' frameborder='0' allowfullscreen='true' width='100%' height='100%'></iframe></div>");
         if (location.href.indexOf("www.iqiyi.com") > -1){
@@ -408,7 +408,7 @@
             setInterval(()=>{
                 $(".yk-dmtxtbox").css("width","300px");
             },1000);
-            GMaddStyle(`.fn-youku-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
+            GMaddStyle(`.fn-youku-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;font-size:12px;}`);
             var bpmodule_playpage_paction = $(".play-fn");
             var youku_jiexi = $("<li class='play-fn-li fn-youku-jiexi'></i><span class='text fn-youku-jiexi-text'>解析</span>" +
                                 "<div class='fn-panel' style='background-color:#2e2e2e;min-width:100px;width:auto;border:1px solid gray;'>" + jiexiDIV + "</div></li>");
