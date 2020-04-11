@@ -2,7 +2,7 @@
 // @name              74vip_tool
 // @name:en           74vip_tool
 // @namespace         https://74vip.top/
-// @version           2.0.4
+// @version           2.0.5
 // @charset		      UTF-8
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @description	      度盘万能钥匙，云盘万能钥匙扩展改成 GM 脚本
@@ -454,9 +454,9 @@
             });
         }else if(location.href.indexOf("www.mgtv.com") > -1){
             GMaddStyle(`.fn-mgtv-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
-            var v_panel_box = $(".v-panel-box");
-            var mgtv_jiexi = $("<div class='v-panel-mod fn-mgtv-jiexi' style='cursor:pointer;'><a class='v-panel-submod fn-mgtv-jiexi-text'>解析</a>" +
-                               "<div class='extend' style='top:-5px;left:-50px;text-align:center;position:relative;'><div class='v-panel-extend'><div class='fn-panel' style='background-color:#2e2e2e;width:auto;border:1px solid gray;'>" +
+            var v_panel_box = $(".m-topheader");
+            var mgtv_jiexi = $("<div class='v-panel-mod fn-mgtv-jiexi' style='cursor:pointer;width: 400px;'><a class='v-panel-submod fn-mgtv-jiexi-text'style='color: #fff;'>解析</a>" +
+                               "<div class='extend' style='top:-5px;left:-50px;text-align:center;position:relative;display: none;'><div class='v-panel-extend'><div class='fn-panel' style='background-color:#2e2e2e;width:auto;border:1px solid gray;'>" +
                                jiexiDIV + "</div></div></div></div>");
             v_panel_box.append(mgtv_jiexi);
             mgtv_jiexi.on("mouseover",()=>{
