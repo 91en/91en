@@ -2,7 +2,7 @@
 // @name              74vip_tool
 // @name:en           74vip_tool
 // @namespace         https://74vip.top/
-// @version           2.0.6
+// @version           2.0.7
 // @charset		      UTF-8
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @description	      度盘万能钥匙，云盘万能钥匙扩展改成 GM 脚本
@@ -206,12 +206,12 @@
         var videoPlayer = $("<div id='iframe-div' style='width:100%;height:100%;z-index:2147483647;'><iframe id='iframe-player' frameborder='0' allowfullscreen='true' width='100%' height='100%'></iframe></div>");
         if (location.href.indexOf("www.iqiyi.com") > -1){
             GMaddStyle(`.fn-iqiyi-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
-            var iqiyi_jiexi = $("<div class='func-item'><span class='func-inner fn-iqiyi-jiexi-text' style='line-height:25px;'><span class='func-name'>解析</span></span>" +
+            var iqiyi_jiexi = $("<div class='func-item'><span class='func-inner fn-iqiyi-jiexi-text' style='line-height:25px;color:#cccccc;'><span class='func-name'>解析</span></span>" +
                                 "<div class='qy-func-jiexi-pop fn-iqiyi-jiexi' style='display:none;position:absolute;left:-50px;text-align:center;z-index:2147483647;'><div class='qy-popup-box' style='background-color:#2e2e2e;border:1px solid gray;'>" +
                                 jiexiDIV + "</div></div></div>");
             var addButtonLoop = setInterval(()=>{
                 if($(".func-like-v1").is(":visible") && !document.getElementsByClassName("fn-iqiyi-jiexi")[0]){
-                    var qy_flash_func = $(".qy-flash-func");
+                    var qy_flash_func = $(".qy-player-title");
                     qy_flash_func.prepend(iqiyi_jiexi);
                     $(".fn-iqiyi-jiexi-text").click(()=>{
                         if(document.getElementById("iframe-player") == null){
