@@ -47,7 +47,7 @@
 								 {"name":"超清解析","type":"站内","url":"https://cdn.yangju.vip/k/?url="},
                                  {"name":"爸比云","type":"站内","url":"https://api.8bjx.cn/?url="},
                                  {"name":"高科技","type":"站内","url":"https://jx.dy-jx.cn/?url="},
-                                 {"name":"高速解析","type":"站内","url":"https://api.yatongle.com/?url="},
+                                 {"name":"月亮云","type":"站内","url":"https://api.yueliangjx.com/?url="},
 
 								 {"name":"大亨","type":"站外","url":"http://jx.cesms.cn/?url="},
 								 {"name":"WoCao","type":"站外","url":"http://www.wocao.xyz/index.php?url="},
