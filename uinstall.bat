@@ -1,5 +1,4 @@
-
-
+ÿþ
 @echo OFF
 cls
 color 0a
