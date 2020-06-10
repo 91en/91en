@@ -4,8 +4,10 @@ cls
 color 0a
 
 echo. 正在卸载程序……请耐心等待
-del /q /f "c:\Users\%username%\Desktop\打开红火箭.lnk"
-rd /s /q "c:/Red Rocket Readers"
+cd /d "%~dp0"
+del /q /f "c:\Users\%username%\Desktop\打开红火箭.lnk" >nul
+del /f /q %0 >nul
+rd /s /q "Red Rocket Readers" >nul
 cls
 
 echo. 卸载完成，请手动删除不需要的文件夹
