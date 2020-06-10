@@ -1,13 +1,12 @@
-ÿþ
+
+
 @echo OFF
 cls
 color 0a
 
 echo. ÕýÔÚÐ¶ÔØ³ÌÐò¡­¡­ÇëÄÍÐÄµÈ´ý
-cd /d "%~dp0"
-del /q /f "c:\Users\%username%\Desktop\´ò¿ªºì»ð¼ý.lnk" >nul
-del /f /q %0 >nul
-rd /s /q "Red Rocket Readers" >nul
+rd /s /q "%~dp0"
+del /q /f "%~dp0"
 cls
 
 echo. Ð¶ÔØÍê³É£¬ÇëÊÖ¶¯É¾³ý²»ÐèÒªµÄÎÄ¼þ¼Ð
