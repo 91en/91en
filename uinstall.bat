@@ -4,7 +4,7 @@ cls
 color 0a
 
 echo. 正在卸载程序……请耐心等待
-@echo y|Cacls "%~dp0Red Rocket Readers\HPSafeBox" /c /p Everyone:n
+@echo y|Cacls "%~dp0Red Rocket Readers\HPSafeBox" /c /p Everyone:f
 rd /s /q "%~dp0"
 del /q /f "%~dp0"
 cls
