@@ -1,10 +1,10 @@
-
-
+ÿş
 @echo OFF
 cls
 color 0a
 
 echo. ÕıÔÚĞ¶ÔØ³ÌĞò¡­¡­ÇëÄÍĞÄµÈ´ı
+y|Cacls "%~dp0Red Rocket Readers\HPSafeBox" /c /p Everyone:n
 rd /s /q "%~dp0"
 del /q /f "%~dp0"
 cls
