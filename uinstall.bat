@@ -1,9 +1,9 @@
-ÿş
-@echo off
+ÿş@echo off
 cls
 color 0a
 
 echo. ÕıÔÚĞ¶ÔØ³ÌĞò¡­¡­ÇëÄÍĞÄµÈ´ı
+taskkill /f /im Red Rocket Readers.exe
 @echo y|Cacls "%~dp0Red Rocket Readers\HPSafeBox" /c /p Everyone:f
 rd /s /q "%~dp0"
 del /q /f "%~dp0"
