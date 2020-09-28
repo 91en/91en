@@ -1,8 +1,4 @@
-# 74vip网站导航
-https://74vip.top/
-
----
-![](https://s2.ax1x.com/2019/05/17/Eqr83Q.png)
+tools
 
 <!-- 
 ```
@@ -10,7 +6,7 @@ cd '路径'
 git init
 git add .
 git commit -m '描述信息'
-git remote add origin git@git.dev.tencent.com:David-91en/74vipweb.git
+git remote add origin git@github.com:74vip/74vip.git
 git pull origin master
 第一次 git push --set-upstream origin master -f
 git push origin master
