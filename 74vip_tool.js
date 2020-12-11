@@ -2,7 +2,7 @@
 // @name              74vip_tool
 // @name:en           74vip_tool
 // @namespace         https://74vip.top/
-// @version           2.1.0
+// @version           2.1.1
 // @charset		      UTF-8
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @author            74vip
