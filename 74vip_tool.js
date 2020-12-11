@@ -37,9 +37,9 @@
     var parseInterfaceList = [];
     var userInterfaceList = [];
     var originalInterfaceList = [{"name":"思古解析","type":"站内","url":"https://api.sigujx.com/?url="},
-                                 {"name":"云解析","type":"站内","url":"https://jx.1ff1.cn/?url="},
-								 {"name":"超清解析","type":"站内","url":"https://cdn.yangju.vip/k/?url="},
-                                 {"name":"爸比云","type":"站内","url":"https://api.8bjx.cn/?url="},
+                                 {"name":"我爱解析","type":"站内","url":"https://vip.52jiexi.top/?url="},
+								 {"name":"8090解析","type":"站内","url":"https://www.8090g.cn/jiexi/?url="},
+                                 {"name":"小熊解析","type":"站内","url":"https://jx.xiaoxiong.me/?url="},
                                  {"name":"u2h.cn","type":"站内","url":"http://u2h.cn/vip.php?url="},
                                  {"name":"月亮云","type":"站内","url":"https://api.yueliangjx.com/?url="},
 
@@ -47,7 +47,7 @@
 								 {"name":"WoCao","type":"站外","url":"http://www.wocao.xyz/index.php?url="},
 								 {"name":"618G","type":"站外","url":"http://jx.618g.com/?url="},
                                  {"name":"百域阁","type":"站外","url":"http://api.baiyug.vip/index.php?url="},
-								 {"name":"黑云","type":"站外","url":"http://jx.daheiyun.com/?url="}];
+								 {"name":"梦幻解析","type":"站外","url":"https://mh.meng20.cn/?url="}];
     //自定义 log 函数
     function mylog(param1,param2){
         param1 = param1 ? param1 : "";
