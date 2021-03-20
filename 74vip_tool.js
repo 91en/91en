@@ -2,7 +2,7 @@
 // @name              74vip_tool
 // @name:en           74vip_tool
 // @namespace         https://74vip.top/
-// @version           2.1.1
+// @version           2.1.2
 // @charset		      UTF-8
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @author            74vip
@@ -200,7 +200,7 @@
         var videoPlayer = $("<div id='iframe-div' style='width:100%;height:100%;z-index:2147483647;'><iframe id='iframe-player' frameborder='0' allowfullscreen='true' width='100%' height='100%'></iframe></div>");
         if (location.href.indexOf("www.iqiyi.com") > -1){
             GMaddStyle(`.fn-iqiyi-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
-            var iqiyi_jiexi = $("<div style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible'><span class='func-inner fn-iqiyi-jiexi-text' style='line-height:25px;color:#cccccc;'><img src='http://mrdavid.test.upcdn.net/CDN/74vip_tool/74vip.png' style='width:50px' ></span>" +
+            var iqiyi_jiexi = $("<div style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible'><span class='func-inner fn-iqiyi-jiexi-text' style='line-height:25px;color:#cccccc;'><img src='https://cdn.jsdelivr.net/gh/91en/91en@master/Mr.D-Film.png' style='width:50px' ></span>" +
                                 "<div class='qy-func-jiexi-pop fn-iqiyi-jiexi' style='display:none;position:absolute;left:1px;text-align:center;z-index:2147483647;'><div class='qy-popup-box' style='background-color:#2e2e2e;border:1px solid gray;'>" +
                                 jiexiDIV + "</div></div></div>");
 
@@ -329,7 +329,7 @@
             }
             var action_wrap = $(".action_wrap");
             GMaddStyle(`.fn-qq-jiexi li{text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
-            var qq_jiexi = $("<div id='qq-jiexi-btn' class='action_item action_jiexi' style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:-12px;top:300px;text-align:center;overflow:visible;'><a class='action_title fn-qq-jiexi-text'><span><img src='http://mrdavid.test.upcdn.net/CDN/74vip_tool/74vip.png' style='width:50px' ></span></a>" +
+            var qq_jiexi = $("<div id='qq-jiexi-btn' class='action_item action_jiexi' style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:-12px;top:300px;text-align:center;overflow:visible;'><a class='action_title fn-qq-jiexi-text'><span><img src='https://cdn.jsdelivr.net/gh/91en/91en@master/Mr.D-Film.png' style='width:50px' ></span></a>" +
                              "<div class='mod_pop_action fn-qq-jiexi' style='background-color:#2e2e2e;width:auto;left:12px;border:1px solid gray;'>" + jiexiDIV + "</div></div>");
             action_wrap.append(qq_jiexi);
             document.getElementById("qq-jiexi-btn").addEventListener("mouseover",()=>{
@@ -405,7 +405,7 @@
             },1000);
             GMaddStyle(`.fn-youku-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;font-size:12px;}`);
             var bpmodule_playpage_paction = $(".play-fn");
-            var youku_jiexi = $("<li class='play-fn-li fn-youku-jiexi' style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible;'></i><span class='text fn-youku-jiexi-text'><img src='http://mrdavid.test.upcdn.net/CDN/74vip_tool/74vip.png' style='width:50px'></span>" +
+            var youku_jiexi = $("<li class='play-fn-li fn-youku-jiexi' style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible;'></i><span class='text fn-youku-jiexi-text'><img src='https://cdn.jsdelivr.net/gh/91en/91en@master/Mr.D-Film.png' style='width:50px'></span>" +
                                 "<div class='fn-panel' style='background-color:#2e2e2e;min-width:100px;width:auto;border:1px solid gray;left:0px;'>" + jiexiDIV + "</div></li>");
             bpmodule_playpage_paction.append(youku_jiexi);
             $(".fn-youku-jiexi-text").click(()=>{
@@ -450,7 +450,7 @@
         }else if(location.href.indexOf("www.mgtv.com") > -1){
             GMaddStyle(`.fn-mgtv-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
             var v_panel_box = $(".m-topheader");
-            var mgtv_jiexi = $("<div class='fn-mgtv-jiexi' style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible'><img src='http://mrdavid.test.upcdn.net/CDN/74vip_tool/74vip.png' style='width:50px;'></a>" +
+            var mgtv_jiexi = $("<div class='fn-mgtv-jiexi' style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible'><img src='https://cdn.jsdelivr.net/gh/91en/91en@master/Mr.D-Film.png' style='width:50px;'></a>" +
                                "<div class='extend' style='top:-15px;left:0px;text-align:center;position:relative;display: none;'><div class='v-panel-extend' style='width:400px;'><div class='fn-panel' style='background-color:#2e2e2e;width:auto;border:1px solid gray;'>" +
                                jiexiDIV + "</div></div></div></div>");
             v_panel_box.append(mgtv_jiexi);
@@ -499,8 +499,8 @@
         }else if(location.href.indexOf("tv.sohu.com") > -1){
             GMaddStyle(`.fn-sohu-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
             var vBox_right = $("#leftBar");
-            var sohu_jiexi = $("<div class='vBox vBox-play' style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible;'><img src='http://mrdavid.test.upcdn.net/CDN/74vip_tool/74vip.png' style='width:50px;'>"+
-                               "<div class='vCont fn-sohu-jiexi' style='background-color:#2e2e2e;border:1px solid gray;padding:0;width:auto;margin: 5px -12px;line-height:25px;display: none;'>" + jiexiDIV + "</div></div>");
+            var sohu_jiexi = $("<div class='vBox vBox-play' style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible;'><img src='https://cdn.jsdelivr.net/gh/91en/91en@master/Mr.D-Film.png' style='width:50px;'>"+
+                               "<div class='vCont fn-sohu-jiexi' style='background-color:#2e2e2e;border:1px solid gray;padding:0;width:auto;margin: -350px 5px;line-height:25px;display: none;'>" + jiexiDIV + "</div></div>");
             vBox_right.prepend(sohu_jiexi);
             sohu_jiexi.click(()=>{
                 $(".fn-sohu-jiexi").toggle();
@@ -537,7 +537,7 @@
         }else if(location.href.indexOf("film.sohu.com") > -1){
             GMaddStyle(`.fn-sohu-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
             var player_content_info = $(".player-content-info");
-            var sohu_film_jiexi = $("<div class='action-item'><a class='action-title fn-sohu-jiexi-text'><img src='http://mrdavid.test.upcdn.net/CDN/74vip_tool/74vip.png' style='width:50px;'></a><div class='hover-content fn-sohu-jiexi' style='background-color:#2e2e2e;border:1px solid gray;width:auto;text-align:center;margin-left:-61px;'>" +
+            var sohu_film_jiexi = $("<div class='action-item'><a class='action-title fn-sohu-jiexi-text'><img src='https://cdn.jsdelivr.net/gh/91en/91en@master/Mr.D-Film.png' style='width:50px;'></a><div class='hover-content fn-sohu-jiexi' style='background-color:#2e2e2e;border:1px solid gray;width:auto;text-align:center;margin-left:-61px;'>" +
                                     jiexiDIV + "</div></div>");
             player_content_info.prepend(sohu_film_jiexi);
             sohu_film_jiexi.on("mouseover",()=>{
@@ -578,7 +578,7 @@
         }else if(location.href.indexOf("www.le.com") > -1){
             GMaddStyle(`.fn-le-jiexi li{color:#cccccc;text-align:center;width:60px;line-height:20px;float:left;border:1px solid gray;border-radius:8px;padding:0 4px;margin:4px 2px;}`);
             var interact_area = $(".interact_area");
-            var le_jiexi = $("<div style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible;'><img src='http://mrdavid.test.upcdn.net/CDN/74vip_tool/74vip.png' style='width:50px;'><div class='fn-le-jiexi' style='display:none;background-color:#2e2e2e;border:1px solid gray;width:auto;position:absolute;top:45px;left:-40px;border-top:2px solid #E42112;box-shadow:0 2px 6px 0 rgba(0,0,0,.1);'>" +
+            var le_jiexi = $("<div style='cursor:pointer;z-index:98;display:block;width:30px;height:30px;line-height:30px;position:fixed;left:0;top:300px;text-align:center;overflow:visible;'><img src='https://cdn.jsdelivr.net/gh/91en/91en@master/Mr.D-Film.png' style='width:50px;'><div class='fn-le-jiexi' style='display:none;background-color:#2e2e2e;border:1px solid gray;width:auto;position:absolute;top:45px;left:-40px;border-top:2px solid #E42112;box-shadow:0 2px 6px 0 rgba(0,0,0,.1);'>" +
                              jiexiDIV + "</div></div>");
             interact_area.prepend(le_jiexi);
             le_jiexi.on("mouseover",()=>{
