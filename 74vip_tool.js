@@ -2,7 +2,7 @@
 // @name              74vip_tool
 // @name:en           74vip_tool
 // @namespace         https://74vip.top/
-// @version           2.1.2
+// @version           2.1.3
 // @charset		      UTF-8
 // @description       支持腾讯视频、爱奇艺、优酷、土豆、芒果 TV、搜狐视频、乐视视频、PPTV等，支持多个解析接口切换，支持自定义接口，支持站内站外解析，支持 Tampermonkey、Violentmonkey、Greasemonkey
 // @author            74vip
@@ -37,17 +37,18 @@
     var parseInterfaceList = [];
     var userInterfaceList = [];
     var originalInterfaceList = [{"name":"思古解析","type":"站内","url":"https://api.sigujx.com/?url="},
-                                 {"name":"我爱解析","type":"站内","url":"https://vip.52jiexi.top/?url="},
+                                 {"name":"盘古解析","type":"站内","url":"http://www.pangujiexi.com/jiexi/?url="},
 								 {"name":"8090解析","type":"站内","url":"https://www.8090g.cn/jiexi/?url="},
                                  {"name":"小熊解析","type":"站内","url":"https://jx.xiaoxiong.me/?url="},
-                                 {"name":"u2h.cn","type":"站内","url":"http://u2h.cn/vip.php?url="},
+                                 {"name":"明日解析","type":"站内","url":"https://www.qianyicp.com/jiexi/index.php?url="},
                                  {"name":"月亮云","type":"站内","url":"https://api.yueliangjx.com/?url="},
 
-								 {"name":"大亨","type":"站外","url":"http://jx.cesms.cn/?url="},
+								 {"name":"1717yun","type":"站外","url":"https://www.1717yun.com/jiexi/?url="},
 								 {"name":"WoCao","type":"站外","url":"http://www.wocao.xyz/index.php?url="},
 								 {"name":"618G","type":"站外","url":"http://jx.618g.com/?url="},
                                  {"name":"百域阁","type":"站外","url":"http://api.baiyug.vip/index.php?url="},
-								 {"name":"梦幻解析","type":"站外","url":"https://mh.meng20.cn/?url="}];
+								 {"name":"全网解析","type":"站外","url":"https://jx.elwtc.com/vip/?url="},
+								 {"name":"瑞星解析","type":"站外","url":"https://vip.rxseo.cc/v/?url="}];
     //自定义 log 函数
     function mylog(param1,param2){
         param1 = param1 ? param1 : "";
